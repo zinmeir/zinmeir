@@ -79,28 +79,58 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/zinmeir/FYP-CloudAide-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zinmeir&repo=FYP-CloudAide-frontend&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/zinmeir/DevSprint">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zinmeir&repo=DevSprint&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/zinmeir/CodeReviewX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zinmeir&repo=CodeReviewX&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/zinmeir/RelocAitor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zinmeir&repo=RelocAitor&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/zinmeir/ResumeLens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zinmeir&repo=ResumeLens&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/zinmeir/CloudFixDB">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zinmeir&repo=CloudFixDB&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/zinmeir/FYP-CloudAide-frontend">FYP-CloudAide</a></h3>
+      <p>Autonomous self-healing AWS infrastructure via a 4-phase RAG pipeline: bi-encoder embeddings → FAISS search → cross-encoder re-ranking → LLaMA 3.1 diagnosis.</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python" />
+      <img src="https://img.shields.io/badge/FAISS-0d1117?style=flat-square&logo=meta&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+      <img src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/zinmeir/DevSprint">DevSprint</a></h3>
+      <p>AI project management suite — LLM generates epics, user stories & sprints with real-time WebSocket updates on AWS.</p>
+      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" />
+      <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
+      <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 <a href="https://github.com/zinmeir/CodeReviewX">CodeReviewX</a></h3>
+      <p>LLM GitHub bot that auto-reviews PRs combining static + semantic code analysis; posts inline comments via CI/CD.</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python" />
+      <img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask" />
+      <img src="https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_API-0d1117?style=flat-square&logo=github" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 <a href="https://github.com/zinmeir/RelocAitor">RelocAitor</a></h3>
+      <p>AI-powered relocation advisor with an interactive 3D world map recommending destinations by user preferences.</p>
+      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs" />
+      <img src="https://img.shields.io/badge/AI_APIs-0d1117?style=flat-square&logo=openai&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/zinmeir/ResumeLens">ResumeLens</a></h3>
+      <p>NLP engine that scores résumé-to-job-description fit and surfaces actionable skill gap insights.</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python" />
+      <img src="https://img.shields.io/badge/NLP-0d1117?style=flat-square&logo=spacy&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗄️ <a href="https://github.com/zinmeir/CloudFixDB">CloudFixDB</a></h3>
+      <p>Custom relational database for tracking cloud resources, incidents, alerts & automated remediation actions.</p>
+      <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=316192" />
+      <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320" alt="Tech GIF"/>
