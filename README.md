@@ -34,7 +34,7 @@
         <li><b>Co-Founder &amp; Ex-CSO</b> at <i>prAIsm</i> — shipped two AI MVPs from zero: Quickpipe &amp; Trainetic</li>
         <li><b>Published researcher</b> across quantum computing (Grover's Algorithm / NISQ), federated learning for mental health, and agentic LLM frameworks</li>
         <li><b>Young Member</b> — The New York Academy of Sciences</li>
-        <li>Based in: Pakistan &amp; Kingdom of Saudi Arabia</li>
+        <li>Pakistan &amp; Kingdom of Saudi Arabia</li>
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
@@ -206,22 +206,29 @@
 <br/>
 
 **🤖 AI, Data & Machine Learning**
-- IBM AI Engineering Professional Certificate
-- Machine Learning Specialization — Andrew Ng (Coursera)
-- Google Advanced Data Analytics Professional Certificate
-- Claude + Google Vertex AI Advanced GenAI Certification
-- Anthropic Responsible AI & Constitutional AI Training
-- Introduction to Model Context Protocol (MCP)
+
+<img src="https://img.shields.io/badge/IBM-AI%20Engineering%20Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Coursera-ML%20Specialization%20%7C%20Andrew%20Ng-0056D2?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Google-Advanced%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Google-Vertex%20AI%20Advanced%20GenAI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Anthropic-Responsible%20AI%20%26%20Constitutional%20AI-6366f1?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Anthropic-Model%20Context%20Protocol%20(MCP)-6366f1?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117" />
+
+<br/><br/>
 
 **☁️ Cloud & Cybersecurity**
-- AWS Cloud Practitioner Essentials
-- Google Cloud GenAI Fundamentals
-- Microsoft Azure AI Fundamentals (AI-900)
-- Google Cybersecurity Professional Certificate
-- Cisco Introduction to Networks (CCNA Track)
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Google%20Cloud-GenAI%20Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Networks%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117" />
+
+<br/><br/>
 
 **🏆 Memberships**
-- Young Member — **New York Academy of Sciences**
+
+<img src="https://img.shields.io/badge/New%20York%20Academy%20of%20Sciences-Young%20Member-6366f1?style=for-the-badge&logo=academia&logoColor=white&labelColor=0d1117" />
 
 </details>
 
