@@ -23,22 +23,23 @@
 
 <br/>
 
----
-
 ## 🧠 Who Am I? | من أنا
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Developer coding GIF"/>
-
-- 🎓 **Final-year CS student** at FAST NUCES Peshawar, graduating **Dec 2026**
-- 🤖 **IBM-Certified AI Engineer** specialising in LLMs, RAG pipelines, FAISS vector search & autonomous cloud systems
-- 🚀 **Co-Founder & Ex-CSO** at *prAIsm*, shipped two AI MVPs from zero: Quickpipe & Trainetic
-- 📜 **Published researcher** across quantum computing (Grover's Algorithm / NISQ), federated learning for mental health, and agentic LLM frameworks
-- 🏆 **Young Member:** The New York Academy of Sciences
-- 📍 Pakistan & Kingdom of Saudi Arabia
-
-<br clear="right"/>
-
----
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top" style="padding-right: 20px;">
+      <p>🎓 <b>Final-year CS student</b> at FAST NUCES Peshawar, graduating <b>Dec 2026</b></p>
+      <p>🤖 <b>IBM-Certified AI Engineer</b> specialising in LLMs, RAG pipelines, FAISS vector search &amp; autonomous cloud systems</p>
+      <p>🚀 <b>Co-Founder &amp; Ex-CSO</b> at <i>prAIsm</i> — shipped two AI MVPs from zero: Quickpipe &amp; Trainetic</p>
+      <p>📜 <b>Published researcher</b> across quantum computing (Grover's Algorithm / NISQ), federated learning for mental health, and agentic LLM frameworks</p>
+      <p>🏆 <b>Young Member</b> — The New York Academy of Sciences</p>
+      <p>📍 Pakistan &amp; Kingdom of Saudi Arabia</p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Developer coding GIF"/>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
