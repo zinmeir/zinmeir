@@ -176,7 +176,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
 <!-- Contribution Snake Animation -->
 <div align="center">
