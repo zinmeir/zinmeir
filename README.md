@@ -132,7 +132,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 InsightForge</h3>
+      <h3>📊 <a href="https://github.com/zinmeir/InsightForge">InsightForge</a></h3>
       <p>SRE-grade observability platform with real-time log ingestion, fast querying, Grafana-style dashboards, and automated alerts.</p>
       <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" />
       <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
