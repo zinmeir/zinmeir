@@ -167,12 +167,6 @@
 
 ## 📊 GitHub Stats
 
-<!-- WakaTime Coding Stats — sign up at wakatime.com, set profile to public, replace YOUR_WAKATIME_USERNAME below -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zinmeir&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=6366f1" width="100%" alt="WakaTime Stats"/>
-</div>
-
-<br/>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zinmeir&theme=tokyonight" height="180" alt="GitHub Stats"/>
   &nbsp;&nbsp;
