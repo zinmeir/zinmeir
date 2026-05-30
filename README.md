@@ -130,6 +130,17 @@
       <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26" />
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 InsightForge</h3>
+      <p>SRE-grade observability platform with real-time log ingestion, fast querying, Grafana-style dashboards, and automated alerts.</p>
+      <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" />
+      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/ElasticSearch-0d1117?style=flat-square&logo=elasticsearch&logoColor=FEC514" />
+      <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" />
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 <div align="center">
