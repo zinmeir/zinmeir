@@ -10,14 +10,14 @@
 
 <!-- QUICK BADGES -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zinmeir&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zinmeir&style=for-the-badge&color=6366f1&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;
   <a href="https://linkedin.com/in/muhammadshaheerakhtar">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:shaheerakhtarbusiness@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Hire%20Me-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
   </a>
 </div>
 
