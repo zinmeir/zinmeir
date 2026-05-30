@@ -128,14 +128,43 @@
 
 ## 📊 GitHub Stats
 
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zinmeir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="100%" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<!-- Stats + Top Languages -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zinmeir&theme=tokyonight" height="180" alt="GitHub Stats"/>
   &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zinmeir&theme=tokyonight" height="180" alt="Top Languages"/>
 </div>
 
+<br/>
+
+<!-- Animated Activity Graph -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zinmeir&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zinmeir&bg_color=1a1b27&color=628fdb&line=6366f1&point=6366f1&area=true&area_color=6366f1&hide_border=true" width="100%" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zinmeir/zinmeir/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zinmeir/zinmeir/output/github-contribution-grid-snake.svg">
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/zinmeir/zinmeir/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+<br/>
+
+<!-- Streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zinmeir&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=6366f1&ring=6366f1&currStreakLabel=6366f1" alt="GitHub Streak"/>
 </div>
 
 ---
