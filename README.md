@@ -42,49 +42,39 @@
 
 ## 🛠️ Tech Stack
 
-### 🌐 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<div align="center">
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+**🌐 Languages**
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,php&theme=dark" alt="Languages" />
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+**💻 Frontend**
 
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" alt="Frontend" />
 
-### 🤖 AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+**⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" alt="Backend" />
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,sqlite&theme=dark" alt="Databases" />
+
+**☁️ DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,githubactions,vercel,netlify&theme=dark" alt="DevOps" />
+
+**🤖 AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="AI Frameworks" />
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0d1117)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117)
+
+</div>
 
 ---
 
@@ -92,15 +82,24 @@
 
 <div align="center">
 
-| 🔭 Project | 💡 What It Solves | 🛠️ Stack |
-|:---|:---|:---|
-| 🧠 **[FYP-CloudAide](https://github.com/zinmeir/FYP-CloudAide-frontend)** | Autonomous self-healing AWS infrastructure via a 4-phase RAG pipeline: bi-encoder embeddings → FAISS search → cross-encoder re-ranking → LLaMA 3.1 diagnosis | `Python` `FAISS` `Ollama` `AWS` `Boto3` |
-| ⚡ **[DevSprint](https://github.com/zinmeir/DevSprint)** | AI project management suite — LLM generates epics, user stories & sprints with real-time WebSocket updates on AWS | `Next.js` `FastAPI` `MongoDB` `Docker` `WebSockets` |
-| 🔍 **[CodeReviewX](https://github.com/zinmeir/CodeReviewX)** | LLM GitHub bot that auto-reviews PRs combining static + semantic code analysis; posts inline comments via CI/CD | `Python` `Flask` `OpenAI API` `GitHub API` `React` |
-| 🌍 **[RelocAitor](https://github.com/zinmeir/RelocAitor)** | AI-powered relocation advisor with an interactive **3D world map** recommending destinations by user preferences | `React` `Three.js` `CSS` `AI APIs` |
-| 📄 **[ResumeLens](https://github.com/zinmeir/ResumeLens)** | NLP engine that scores résumé-to-job-description fit and surfaces actionable skill gap insights | `Python` `NLP` `React` `CSS` |
-| 🗄️ **[CloudFixDB](https://github.com/zinmeir/CloudFixDB)** | Custom relational database for tracking cloud resources, incidents, alerts & automated remediation actions | `HTML` `SQL` `Relational DB Design` |
-| 📊 **InsightForge** | Real-time log ingestion & monitoring platform with Grafana-style dashboards and configurable alerting pipelines | `FastAPI` `React` `ElasticSearch` `Docker` |
+<a href="https://github.com/zinmeir/FYP-CloudAide-frontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zinmeir&repo=FYP-CloudAide-frontend&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/zinmeir/DevSprint">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zinmeir&repo=DevSprint&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/zinmeir/CodeReviewX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zinmeir&repo=CodeReviewX&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/zinmeir/RelocAitor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zinmeir&repo=RelocAitor&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/zinmeir/ResumeLens">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zinmeir&repo=ResumeLens&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/zinmeir/CloudFixDB">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zinmeir&repo=CloudFixDB&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
 
 </div>
 
@@ -128,7 +127,12 @@
 
 ## 📊 GitHub Stats
 
-<!-- Stats + Top Languages -->
+<!-- WakaTime Coding Stats — sign up at wakatime.com, set profile to public, replace YOUR_WAKATIME_USERNAME below -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zinmeir&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=6366f1" width="100%" alt="WakaTime Stats"/>
+</div>
+
+<br/>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zinmeir&theme=tokyonight" height="180" alt="GitHub Stats"/>
   &nbsp;&nbsp;
