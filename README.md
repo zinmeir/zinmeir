@@ -142,12 +142,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zinmeir&theme=tokyonight" height="180" alt="Top Languages"/>
 </div>
 
-<br/>
-
-<!-- Animated Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zinmeir&bg_color=1a1b27&color=628fdb&line=6366f1&point=6366f1&area=true&area_color=6366f1&hide_border=true" width="100%" alt="Contribution Graph"/>
-</div>
 
 <br/>
 
