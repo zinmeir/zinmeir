@@ -1,5 +1,5 @@
 <!-- CAPSULE-RENDER HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Shaheer%20Akhtar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Polymath&descAlignY=60&descAlign=50" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Shaheer%20Akhtar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Polymath&descAlignY=60&descAlign=50" width="100%" alt="Header Banner"/>
 
 <!-- ANIMATED TYPING INTRO -->
 <div align="center">
@@ -143,9 +143,20 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320" alt="Tech GIF"/>
-</div>
+<table width="100%">
+  <tr>
+    <td width="25%" valign="middle">
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" width="100%" alt="Dev Quote"/>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320" alt="Tech GIF"/>
+    </td>
+    <td width="35%" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zinmeir&theme=tokyonight" width="100%" alt="Top Languages"/><br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zinmeir&theme=tokyonight" width="100%" alt="GitHub Stats"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -166,15 +177,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zinmeir&theme=tokyonight" height="180" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zinmeir&theme=tokyonight" height="180" alt="Top Languages"/>
-</div>
-
-
-<br/>
 
 <!-- Contribution Snake Animation -->
 <div align="center">
@@ -227,11 +229,11 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-shaheerakhtarbusiness%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaheerakhtarbusiness@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-shaheerakhtarbusiness%40gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:shaheerakhtarbusiness@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Shaheer%20Akhtar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadshaheerakhtar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Shaheer%20Akhtar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/muhammadshaheerakhtar)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-zinmeir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zinmeir)
+[![GitHub](https://img.shields.io/badge/GitHub-zinmeir-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/zinmeir)
 
 <br/>
 
