@@ -129,9 +129,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zinmeir&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zinmeir&theme=tokyonight" height="180" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinmeir&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zinmeir&theme=tokyonight" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
