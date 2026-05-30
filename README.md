@@ -95,8 +95,8 @@
 | 🔭 Project | 💡 What It Solves | 🛠️ Stack |
 |:---|:---|:---|
 | 🧠 **[FYP-CloudAide](https://github.com/zinmeir/FYP-CloudAide-frontend)** | Autonomous self-healing AWS infrastructure via a 4-phase RAG pipeline: bi-encoder embeddings → FAISS search → cross-encoder re-ranking → LLaMA 3.1 diagnosis | `Python` `FAISS` `Ollama` `AWS` `Boto3` |
-| ⚡ **DevSprint** | AI project management suite — LLM generates epics, user stories & sprints with real-time WebSocket updates on AWS | `Next.js` `FastAPI` `MongoDB` `Docker` `WebSockets` |
-| 🔍 **CodeReviewX** | LLM GitHub bot that auto-reviews PRs combining static + semantic code analysis; posts inline comments via CI/CD | `Python` `Flask` `OpenAI API` `GitHub API` `React` |
+| ⚡ **[DevSprint](https://github.com/zinmeir/DevSprint)** | AI project management suite — LLM generates epics, user stories & sprints with real-time WebSocket updates on AWS | `Next.js` `FastAPI` `MongoDB` `Docker` `WebSockets` |
+| 🔍 **[CodeReviewX](https://github.com/zinmeir/CodeReviewX)** | LLM GitHub bot that auto-reviews PRs combining static + semantic code analysis; posts inline comments via CI/CD | `Python` `Flask` `OpenAI API` `GitHub API` `React` |
 | 🌍 **[RelocAitor](https://github.com/zinmeir/RelocAitor)** | AI-powered relocation advisor with an interactive **3D world map** recommending destinations by user preferences | `React` `Three.js` `CSS` `AI APIs` |
 | 📄 **[ResumeLens](https://github.com/zinmeir/ResumeLens)** | NLP engine that scores résumé-to-job-description fit and surfaces actionable skill gap insights | `Python` `NLP` `React` `CSS` |
 | 🗄️ **[CloudFixDB](https://github.com/zinmeir/CloudFixDB)** | Custom relational database for tracking cloud resources, incidents, alerts & automated remediation actions | `HTML` `SQL` `Relational DB Design` |
