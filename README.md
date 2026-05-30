@@ -29,11 +29,11 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Developer coding GIF"/>
 
-- 🎓 **Final-year CS student** at FAST NUCES Peshawar — graduating **Dec 2026**
+- 🎓 **Final-year CS student** at FAST NUCES Peshawar, graduating **Dec 2026**
 - 🤖 **IBM-Certified AI Engineer** specialising in LLMs, RAG pipelines, FAISS vector search & autonomous cloud systems
-- 🚀 **Co-Founder & Ex-CSO** at *prAIsm* — shipped two AI MVPs from zero: product vision, MVP, team & partnerships
+- 🚀 **Co-Founder & Ex-CSO** at *prAIsm*, shipped two AI MVPs from zero: product vision, MVP, team & partnerships
 - 📜 **Published researcher** across quantum computing (Grover's Algorithm / NISQ), federated learning for mental health, and agentic LLM frameworks
-- 🏆 **Young Member** — The New York Academy of Sciences
+- 🏆 **Young Member:** The New York Academy of Sciences
 - 📍 Pakistan & Kingdom of Saudi Arabia
 
 <br clear="right"/>
