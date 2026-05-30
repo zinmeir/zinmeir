@@ -27,16 +27,18 @@
 
 <table width="100%">
   <tr>
-    <td width="55%" valign="top" style="padding-right: 20px;">
-      <p>🎓 <b>Final-year CS student</b> at FAST NUCES Peshawar, graduating <b>Dec 2026</b></p>
-      <p>🤖 <b>IBM-Certified AI Engineer</b> specialising in LLMs, RAG pipelines, FAISS vector search &amp; autonomous cloud systems</p>
-      <p>🚀 <b>Co-Founder &amp; Ex-CSO</b> at <i>prAIsm</i> — shipped two AI MVPs from zero: Quickpipe &amp; Trainetic</p>
-      <p>📜 <b>Published researcher</b> across quantum computing (Grover's Algorithm / NISQ), federated learning for mental health, and agentic LLM frameworks</p>
-      <p>🏆 <b>Young Member</b> — The New York Academy of Sciences</p>
-      <p>📍 Pakistan &amp; Kingdom of Saudi Arabia</p>
+    <td width="55%" valign="top">
+      <ul>
+        <li><b>Final-year CS student</b> at FAST NUCES Peshawar, graduating <b>Dec 2026</b></li>
+        <li><b>IBM-Certified AI Engineer</b> specialising in LLMs, RAG pipelines, FAISS vector search &amp; autonomous cloud systems</li>
+        <li><b>Co-Founder &amp; Ex-CSO</b> at <i>prAIsm</i> — shipped two AI MVPs from zero: Quickpipe &amp; Trainetic</li>
+        <li><b>Published researcher</b> across quantum computing (Grover's Algorithm / NISQ), federated learning for mental health, and agentic LLM frameworks</li>
+        <li><b>Young Member</b> — The New York Academy of Sciences</li>
+        <li>Based in: Pakistan &amp; Kingdom of Saudi Arabia</li>
+      </ul>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Developer coding GIF"/>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer coding GIF"/>
     </td>
   </tr>
 </table>
