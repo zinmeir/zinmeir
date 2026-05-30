@@ -29,12 +29,12 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Developer coding GIF"/>
 
-- 🎓 **Final-year CS student** at FAST NUCES Peshawar — graduating **Aug 2026**
+- 🎓 **Final-year CS student** at FAST NUCES Peshawar — graduating **Dec 2026**
 - 🤖 **AI Engineer** specialising in LLMs, RAG pipelines, FAISS vector search & autonomous cloud systems
-- 🚀 **Ex-Co-Founder & CSO** at *prAIsm* — shipped an AI startup from zero: product vision, MVP, team & partnerships
+- 🚀 **Ex-Co-Founder & CSO** at *prAIsm* — shipped an AI MVPs from zero: product vision, MVP, team & partnerships
 - 📜 **Published researcher** across quantum computing (Grover's Algorithm / NISQ), federated learning for mental health, and agentic LLM frameworks
 - 🏆 **Young Member** — New York Academy of Sciences
-- 📍 Peshawar, Pakistan — remote-first & globally available
+- 📍 Pakistan & Kingdom of Saudi Arabia
 
 <br clear="right"/>
 
@@ -182,7 +182,7 @@
 <br/>
 
 <i>⚡ Open to AI/ML engineering roles, full-stack contracts, and research collaborations.</i><br/>
-<i>📍 Pakistan-based — remote-first mindset, globally available.</i>
+<i>📍 remote-first mindset, globally available.</i>
 
 </div>
 
