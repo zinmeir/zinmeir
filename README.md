@@ -144,7 +144,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🕸️ <a href="https://github.com/zinmeir/NetherSiphon">NetherSiphon</a></h3>
-      <p>Hostile telemetry exfiltration & autonomous adversary containment mesh. Emulates vulnerable SSH nodes to siphon threat actor data into a decoupled ELK SIEM pipeline.</p>
+      <p>NetherSiphon is a containerized cyber deception and SIEM platform that emulates vulnerable Linux servers to capture SSH attacks, credentials, keystrokes, and attacker telemetry for real-time threat analysis..</p>
       <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" />
       <img src="https://img.shields.io/badge/Elastic_Stack-0d1117?style=flat-square&logo=elasticsearch&logoColor=FEC514" />
       <img src="https://img.shields.io/badge/Cowrie-0d1117?style=flat-square&logo=linux&logoColor=FCC624" />
