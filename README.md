@@ -43,6 +43,17 @@
   </tr>
 </table>
 
+## 🚧 Currently Building / Learning
+
+| | |
+|:---|:---|
+| 🔨 **Building** | CloudAide — autonomous self-healing AWS infrastructure with agentic LLM pipelines |
+| 🌱 **Focusing on** | Agentic LLM architectures, multi-agent orchestration & Rust |
+| 📖 **Reading** | *Build a Large Language Model (From Scratch)* - Sebastian Raschka, PhD |
+| 🤝 **Looking to collaborate on** | Scalable RAG architectures, agentic LLM frameworks, & applied AI research |
+
+---
+
 ## 🛠️ Tech Stack
 
 <table align="center">
@@ -185,7 +196,6 @@
 
 ---
 
-
 <!-- Contribution Snake Animation -->
 <div align="center">
   <picture>
@@ -278,7 +288,7 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/academia/6366f1" width="48" height="48" alt="NYAS"/><br/>
+      <img src="https://raw.githubusercontent.com/zinmeir/zinmeir/main/assets/nyas-logo.svg" width="48" height="48" alt="NYAS"/><br/>
       <sub>Young Member @The New York Academy of Sciences</sub>
     </td>
     <td align="center" width="110">
