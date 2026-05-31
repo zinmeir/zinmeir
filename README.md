@@ -273,15 +273,15 @@
   <tr>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/academia/6366f1" width="48" height="48" alt="NYAS"/><br/>
-      <sub>Young Member — New York Academy of Sciences</sub>
+      <sub>Young Member @The New York Academy of Sciences</sub>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="GDG"/><br/>
-      <sub>Organizer — GDG Peshawar</sub>
+      <sub>Organizer @GDG Peshawar</sub>
     </td>
     <td align="center" width="110">
       <img src="https://raw.githubusercontent.com/zinmeir/zinmeir/main/assets/ai-collective-logo.svg" width="48" height="48" alt="AI Collective"/><br/>
-      <sub>Chapter Lead — AI Collective Islamabad</sub>
+      <sub>Chapter Lead @The AI Collective, Islamabad</sub>
     </td>
   </tr>
 </table>
