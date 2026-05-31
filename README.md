@@ -215,7 +215,7 @@
     </td>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/coursera/0056D2" width="48" height="48" alt="Coursera"/><br/>
-      <sub>ML Specialization — Andrew Ng</sub>
+      <sub>DeepLearning.AI ML Specialization by Andrew Ng & Stanford Online</sub>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Google"/><br/>
