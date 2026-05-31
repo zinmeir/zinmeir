@@ -288,7 +288,7 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/zinmeir/zinmeir/main/assets/nyas-logo.svg" width="48" height="48" alt="NYAS"/><br/>
+      <img src="https://img.shields.io/badge/%20-%20-1a1b2e?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZD0iTTEwIDJBOCA4IDAgMSAxIDIgMTBNMiAxMEE1IDUgMCAwIDAgMTMuNSA4LjVNMTMuNSA4LjVBMyAzIDAgMCAxIDcgMTJNNyAxMkExLjUgMS41IDAgMCAwIDEwIDEwIi8+PC9zdmc+&logoColor=a5b4fc&labelColor=1a1b2e" width="48" height="48" alt="NYAS"/><br/>
       <sub>Young Member @The New York Academy of Sciences</sub>
     </td>
     <td align="center" width="110">
