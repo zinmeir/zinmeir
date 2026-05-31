@@ -318,8 +318,8 @@
 
 <br/>
 
-<i>⚡ Open to AI/ML engineering roles, full-stack contracts, and research collaborations.</i><br/>
-<i>📍 remote-first mindset, globally available.</i>
+<i>💡 Bridging the gap between AI/ML research and full-stack deployment. Open to engineering roles, enterprise contracts, and R&D partnerships.</i><br/>
+<i>📍 Operating globally via a remote-first workflow.</i>
 
 </div>
 
