@@ -280,7 +280,7 @@
       <sub>Organizer — GDG Peshawar</sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/openai/6366f1" width="48" height="48" alt="AI Collective"/><br/>
+      <img src="https://raw.githubusercontent.com/zinmeir/zinmeir/main/assets/ai-collective-logo.svg" width="48" height="48" alt="AI Collective"/><br/>
       <sub>Chapter Lead — AI Collective Islamabad</sub>
     </td>
   </tr>
