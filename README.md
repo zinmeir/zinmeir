@@ -227,11 +227,11 @@
     </td>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/anthropic/6366f1" width="48" height="48" alt="Anthropic"/><br/>
-      <sub>Responsible AI & Constitutional AI</sub>
+      <sub>Responsible AI & Constitutional AI by Anthropic</sub>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/anthropic/6366f1" width="48" height="48" alt="Anthropic"/><br/>
-      <sub>Model Context Protocol (MCP)</sub>
+      <sub>Introduction to Model Context Protocol (MCP) by Anthropic</sub>
     </td>
   </tr>
 </table>
