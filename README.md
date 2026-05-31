@@ -91,7 +91,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Featured Projects
 
 <table align="center" width="100%">
   <tr>
@@ -122,7 +122,7 @@
       <img src="https://img.shields.io/badge/GitHub_API-0d1117?style=flat-square&logo=github" />
     </td>
     <td width="50%" valign="top">
-      <h3>🌍 <a href="https://github.com/zinmeir/RelocAitor">RelocAitor</a></h3>
+      <h3>🌎 <a href="https://github.com/zinmeir/RelocAitor">RelocAitor</a></h3>
       <p>An AI-powered relocation advisor featuring a WebGL-rendered 3D interactive world map that scores global destinations based on user preferences.</p>
       <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs" />
