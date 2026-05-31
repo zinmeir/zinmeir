@@ -97,7 +97,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/zinmeir/FYP-CloudAide-frontend">FYP-CloudAide</a></h3>
-      <p>Autonomous self-healing AWS infrastructure via a 4-phase RAG pipeline: bi-encoder embeddings → FAISS search → cross-encoder re-ranking → LLaMA 3.1 diagnosis.</p>
+      <p>An autonomous AI Cloud Support Engineer that self-heals AWS infrastructure via a 4-phase RAG pipeline (Bi-encoders → FAISS → Cross-encoders → LLaMA 3.1).</p>
       <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python" />
       <img src="https://img.shields.io/badge/FAISS-0d1117?style=flat-square&logo=meta&logoColor=white" />
       <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900" />
@@ -105,7 +105,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/zinmeir/DevSprint">DevSprint</a></h3>
-      <p>AI project management suite — LLM generates epics, user stories & sprints with real-time WebSocket updates on AWS.</p>
+      <p>A real-time, LLM-powered Agile planning suite. Features automated sprint generation via generative AI and live state synchronization through AWS API Gateway WebSockets.</p>
       <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs" />
       <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" />
       <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
@@ -115,7 +115,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🔍 <a href="https://github.com/zinmeir/CodeReviewX">CodeReviewX</a></h3>
-      <p>LLM GitHub bot that auto-reviews PRs combining static + semantic code analysis; posts inline comments via CI/CD.</p>
+      <p>An LLM-powered GitHub bot for hybrid (static + semantic) code reviews and automated inline PR comments via CI/CD.</p>
       <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python" />
       <img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask" />
       <img src="https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white" />
@@ -123,7 +123,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🌍 <a href="https://github.com/zinmeir/RelocAitor">RelocAitor</a></h3>
-      <p>AI-powered relocation advisor with an interactive 3D world map recommending destinations by user preferences.</p>
+      <p>An AI-powered relocation advisor featuring a WebGL-rendered 3D interactive world map that scores global destinations based on user preferences.</p>
       <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs" />
       <img src="https://img.shields.io/badge/AI_APIs-0d1117?style=flat-square&logo=openai&logoColor=white" />
@@ -147,7 +147,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>📊 <a href="https://github.com/zinmeir/InsightForge">InsightForge</a></h3>
-      <p>SRE-grade observability platform with real-time log ingestion, fast querying, Grafana-style dashboards, and automated alerts.</p>
+      <p>A high-throughput, SRE-grade observability engine featuring distributed log ingestion, indexed querying, dynamic dashboards, and a metrics-driven alerting pipeline.</p>
       <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" />
       <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/ElasticSearch-0d1117?style=flat-square&logo=elasticsearch&logoColor=FEC514" />
