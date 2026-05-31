@@ -47,7 +47,7 @@
 
 | | |
 |:---|:---|
-| 🔨 **Building** | CloudAide — autonomous self-healing AWS infrastructure with agentic LLM pipelines |
+| 🔨 **Building** | CloudAide: An AI Cloud Support Engineer |
 | 🌱 **Focusing on** | Agentic LLM architectures, multi-agent orchestration & Rust |
 | 📖 **Reading** | *Build a Large Language Model (From Scratch)* - Sebastian Raschka, PhD |
 | 🤝 **Looking to collaborate on** | Scalable RAG architectures, agentic LLM frameworks, & applied AI research |
