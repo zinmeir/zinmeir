@@ -1,11 +1,14 @@
+<!-- CAPSULE-RENDER HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Shaheer%20Akhtar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Polymath&descAlignY=60&descAlign=50" width="100%" alt="Header Banner"/>
 
+<!-- ANIMATED TYPING INTRO -->
 <div align="center">
   <a href="https://github.com/zinmeir">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=AI+Engineer+%26+Full-Stack+Developer;RAG+Pipelines+%7C+LLMs+%7C+Cloud+Systems;Published+Researcher+in+AI+%26+Quantum+Computing;Building+Production-Grade+AI+from+Pakistan" alt="Typing SVG" />
   </a>
 </div>
 
+<!-- QUICK BADGES -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zinmeir&style=for-the-badge&color=6366f1&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;
@@ -140,7 +143,7 @@
       <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" />
     </td>
     <td width="50%" valign="top">
-      <h3>🕳️ <a href="https://github.com/zinmeir/NetherSiphon">NetherSiphon</a></h3>
+      <h3>🕸️ <a href="https://github.com/zinmeir/NetherSiphon">NetherSiphon</a></h3>
       <p>Hostile telemetry exfiltration & autonomous adversary containment mesh. Emulates vulnerable SSH nodes to siphon threat actor data into a decoupled ELK SIEM pipeline.</p>
       <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" />
       <img src="https://img.shields.io/badge/Elastic_Stack-0d1117?style=flat-square&logo=elasticsearch&logoColor=FEC514" />
@@ -183,6 +186,7 @@
 ---
 
 
+<!-- Contribution Snake Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zinmeir/zinmeir/output/github-contribution-grid-snake-dark.svg">
@@ -193,6 +197,7 @@
 
 <br/>
 
+<!-- Streak -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zinmeir&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=6366f1&ring=6366f1&currStreakLabel=6366f1" alt="GitHub Streak"/>
 </div>
@@ -310,4 +315,5 @@
 
 <br/>
 
+<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer Wave"/>
