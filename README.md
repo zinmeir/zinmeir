@@ -211,7 +211,7 @@
   <tr>
     <td align="center" width="110">
       <img src="https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=white&style=flat-square" width="48" height="48" alt="IBM"/><br/>
-      <sub>AI Engineering Professional</sub>
+      <sub>IBM AI Engineering Professional</sub>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/coursera/0056D2" width="48" height="48" alt="Coursera"/><br/>
@@ -219,7 +219,7 @@
     </td>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Google"/><br/>
-      <sub>Advanced Data Analytics</sub>
+      <sub>Google Advanced Data Analytics</sub>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="48" height="48" alt="Google Cloud"/><br/>
@@ -244,7 +244,7 @@
   <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/><br/>
-      <sub>Cloud Practitioner Essentials</sub>
+      <sub>AWS Cloud Practitioner Essentials</sub>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="48" height="48" alt="Google Cloud"/><br/>
@@ -252,11 +252,11 @@
     </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48" height="48" alt="Azure"/><br/>
-      <sub>Azure AI Fundamentals AI-900</sub>
+      <sub>Microsoft Azure AI Fundamentals AI-900</sub>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Google"/><br/>
-      <sub>Cybersecurity Professional</sub>
+      <sub>Google Cybersecurity Professional</sub>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="48" height="48" alt="Cisco"/><br/>
