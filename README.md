@@ -132,7 +132,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>📄 <a href="https://github.com/zinmeir/ResumeLens">ResumeLens</a></h3>
-      <p>NLP engine that scores résumé-to-job-description fit and surfaces actionable skill gap insights.</p>
+      <p>A transformer-based NLP engine for semantic resume matching, similarity scoring, and skill gap extraction.</p>
       <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python" />
       <img src="https://img.shields.io/badge/NLP-0d1117?style=flat-square&logo=spacy&logoColor=white" />
       <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
