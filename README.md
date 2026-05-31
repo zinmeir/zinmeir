@@ -23,7 +23,7 @@
 
 <br/>
 
-## 🧠 Who Am I? | من أنا
+## 👽 Who Am I? | من أنا
 
 <table width="100%">
   <tr>
@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-## 🚧 Currently Building / Learning
+## ⚙️ Currently Building / Learning
 
 | | |
 |:---|:---|
@@ -96,7 +96,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/zinmeir/FYP-CloudAide-frontend">FYP-CloudAide</a></h3>
+      <h3>🤖 <a href="https://github.com/zinmeir/FYP-CloudAide-frontend">FYP-CloudAide</a></h3>
       <p>An autonomous AI Cloud Support Engineer that self-heals AWS infrastructure via a 4-phase RAG pipeline (Bi-encoders → FAISS → Cross-encoders → LLaMA 3.1).</p>
       <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python" />
       <img src="https://img.shields.io/badge/FAISS-0d1117?style=flat-square&logo=meta&logoColor=white" />
@@ -104,7 +104,7 @@
       <img src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/zinmeir/DevSprint">DevSprint</a></h3>
+      <h3>📋 <a href="https://github.com/zinmeir/DevSprint">DevSprint</a></h3>
       <p>A real-time, LLM-powered Agile planning suite. Features automated sprint generation via generative AI and live state synchronization through AWS API Gateway WebSockets.</p>
       <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs" />
       <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" />
@@ -138,7 +138,7 @@
       <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
     </td>
     <td width="50%" valign="top">
-      <h3>🗄️ <a href="https://github.com/zinmeir/CloudFixDB">CloudFixDB</a></h3>
+      <h3>☁️ <a href="https://github.com/zinmeir/CloudFixDB">CloudFixDB</a></h3>
       <p>Custom relational database for tracking cloud resources, incidents, alerts & automated remediation actions.</p>
       <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=316192" />
       <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26" />
@@ -154,7 +154,7 @@
       <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" />
     </td>
     <td width="50%" valign="top">
-      <h3>🕸️ <a href="https://github.com/zinmeir/NetherSiphon">NetherSiphon</a></h3>
+      <h3>🪤 <a href="https://github.com/zinmeir/NetherSiphon">IntruderTrap</a></h3>
       <p>Enterprise-grade cyber deception and SIEM pipeline that uses Linux honeypots to intercept SSH attacks and collect attacker telemetry, credentials, and post-compromise activity.</p>
       <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" />
       <img src="https://img.shields.io/badge/Elastic_Stack-0d1117?style=flat-square&logo=elasticsearch&logoColor=FEC514" />
@@ -188,7 +188,7 @@
 
 > 🧠 **Federated Learning for Mental Health Applications: Adaptive and Privacy-Preserving Early Detection**
 >
-> *Privacy-first federated architecture for early mental health condition detection — no sensitive data ever centralised.*
+> *Privacy-first federated architecture for early mental health condition detection, no sensitive data ever centralised.*
 
 > ☁️ **CloudAIde: An Agentic Framework for Autonomous Cloud Infrastructure Remediation Using Large Language Models**
 >
