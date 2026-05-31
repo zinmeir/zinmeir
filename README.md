@@ -207,28 +207,84 @@
 
 **🤖 AI, Data & Machine Learning**
 
-<img src="https://img.shields.io/badge/IBM-AI%20Engineering%20Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Coursera-ML%20Specialization%20%7C%20Andrew%20Ng-0056D2?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Google-Advanced%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Google-Vertex%20AI%20Advanced%20GenAI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Anthropic-Responsible%20AI%20%26%20Constitutional%20AI-6366f1?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Anthropic-Model%20Context%20Protocol%20(MCP)-6366f1?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117" />
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=white&style=flat-square" width="48" height="48" alt="IBM"/><br/>
+      <sub>AI Engineering Professional</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/coursera/0056D2" width="48" height="48" alt="Coursera"/><br/>
+      <sub>ML Specialization — Andrew Ng</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Google"/><br/>
+      <sub>Advanced Data Analytics</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="48" height="48" alt="Google Cloud"/><br/>
+      <sub>Vertex AI Advanced GenAI</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/anthropic/6366f1" width="48" height="48" alt="Anthropic"/><br/>
+      <sub>Responsible AI & Constitutional AI</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/anthropic/6366f1" width="48" height="48" alt="Anthropic"/><br/>
+      <sub>Model Context Protocol (MCP)</sub>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 **☁️ Cloud & Cybersecurity**
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Google%20Cloud-GenAI%20Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Networks%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117" />
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/><br/>
+      <sub>Cloud Practitioner Essentials</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="48" height="48" alt="Google Cloud"/><br/>
+      <sub>Google Cloud GenAI Fundamentals</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48" height="48" alt="Azure"/><br/>
+      <sub>Azure AI Fundamentals AI-900</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Google"/><br/>
+      <sub>Cybersecurity Professional</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="48" height="48" alt="Cisco"/><br/>
+      <sub>Intro to Networks (CCNA)</sub>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 **🏆 Memberships**
 
-<img src="https://img.shields.io/badge/New%20York%20Academy%20of%20Sciences-Young%20Member-6366f1?style=for-the-badge&logo=academia&logoColor=white&labelColor=0d1117" />
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/academia/6366f1" width="48" height="48" alt="NYAS"/><br/>
+      <sub>Young Member — New York Academy of Sciences</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="GDG"/><br/>
+      <sub>Organizer — GDG Peshawar</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/openai/6366f1" width="48" height="48" alt="AI Collective"/><br/>
+      <sub>Chapter Lead — AI Collective Islamabad</sub>
+    </td>
+  </tr>
+</table>
 
 </details>
 
