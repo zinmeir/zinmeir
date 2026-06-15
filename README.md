@@ -4,7 +4,7 @@
 <!-- ANIMATED TYPING INTRO -->
 <div align="center">
   <a href="https://github.com/zinmeir">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=AI+Engineer+%26+Full-Stack+Developer;RAG+Pipelines+%7C+LLMs+%7C+Cloud+Systems;Published+Researcher+in+AI+%26+Quantum+Computing;Building+Production-Grade+AI+from+Pakistan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=AI+Engineer+%26+Cybersecurity+Specialist;RAG+Pipelines+%7C+LLMs+%7C+Cloud+Systems;Published+Researcher+in+AI+%26+Quantum+Computing;Building+Production-Grade+AI+from+Pakistan" alt="Typing SVG" />
   </a>
 </div>
 
