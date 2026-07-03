@@ -96,7 +96,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/zinmeir/FYP-CloudAide-frontend">FYP-CloudAide</a></h3>
+      <h3>🤖 <a href="https://github.com/zinmeir/CloudAide-full-build">FYP-CloudAide</a></h3>
       <p>An autonomous AI Cloud Support Engineer that self-heals AWS infrastructure via a 4-phase RAG pipeline (Bi-encoders → FAISS → Cross-encoders → LLaMA 3.1).</p>
       <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python" />
       <img src="https://img.shields.io/badge/FAISS-0d1117?style=flat-square&logo=meta&logoColor=white" />
