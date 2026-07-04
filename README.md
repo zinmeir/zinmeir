@@ -13,14 +13,14 @@
 
 <!-- ═══════════════════ ORBITAL COMMS BADGES ═══════════════════ -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zinmeir&style=for-the-badge&color=8B5CF6&labelColor=030014&label=🛰️+ORBITAL+FLYBYS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=zinmeir&style=for-the-badge&color=8B5CF6&labelColor=030014&label=🛰️+PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;
   <a href="https://linkedin.com/in/muhammadshaheerakhtar">
-    <img src="https://img.shields.io/badge/LinkedIn-Establish_Contact-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030014" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030014" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:shaheerakhtarbusiness@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Open_Channel-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030014" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-CONTACT-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030014" alt="Email"/>
   </a>
 </div>
 
@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-## 🚀 Currently Building / Learning — Mission Log
+## 🚀 Currently Building/Learning 
 
 | | |
 |:---|:---|
@@ -59,7 +59,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,50:8B5CF6,100:030014" width="100%" alt="divider"/>
 
-## 🛰️ Tech Stack — Onboard Systems
+## 🛰️ Tech Stack
 
 <table align="center">
   <tr>
@@ -96,7 +96,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:030014,50:00E5FF,100:8B5CF6" width="100%" alt="divider"/>
 
-## 🪐 Featured Projects — Fleet in Orbit
+## 🪐 Featured Projects
 
 <table align="center" width="100%">
   <tr>
@@ -186,7 +186,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B5CF6,50:00E5FF,100:030014" width="100%" alt="divider"/>
 
-## 🔭 Research Publications — Signals From Deep Space
+## 🔭 Research Publications
 
 > 🔬 **Performance Analysis of Grover's Algorithm under Depolarizing Noise in NISQ Devices**
 >
@@ -220,7 +220,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,50:8B5CF6,100:030014" width="100%" alt="divider"/>
 
-## 🌠 Certifications — Flight Qualifications
+## 🌠 Certifications
 
 <details>
 <summary><b>🎓 Click to expand full certifications list</b></summary>
@@ -312,7 +312,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:030014,50:00E5FF,100:8B5CF6" width="100%" alt="divider"/>
 
-## 📡 Let's Connect — Ground Control
+## 📡 Let's Connect
 
 <div align="center">
 
