@@ -22,6 +22,10 @@
   <a href="mailto:shaheerakhtarbusiness@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-CONTACT-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030014" alt="Email"/>
   </a>
+  &nbsp;
+  <a href="https://shaheerakhtar.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-VISIT-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=030014" alt="Portfolio"/>
+  </a>
 </div>
 
 <br/>
