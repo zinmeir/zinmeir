@@ -40,7 +40,7 @@
       <ul>
         <li><b>Final-semester CS student</b> at FAST NUCES Peshawar, graduating <b>Dec 2026</b></li>
         <li><b>IBM-Certified AI Engineer</b> specialising in LLMs, RAG pipelines, FAISS vector search &amp; autonomous cloud systems</li>
-        <li><b>Co-Founder &amp; Ex-CSO</b> at <i>prAIsm</i> where I shipped two AI MVPs from zero: Quickpipe &amp; Trainetic</li>
+        <li><b>ML Engineer @ Lucid Motors & xCo-Founder &amp; xCSO</b> at <i>prAIsm</i> where I shipped two AI MVPs from zero: Quickpipe &amp; Trainetic</li>
         <li><b>Published researcher</b> across quantum computing (Grover's Algorithm / NISQ), federated learning for mental health applications, and agentic LLM frameworks</li>
         <li><b>Young Member:</b> The New York Academy of Sciences</li>
         <li><b>Based in:</b> Pakistan &amp; Kingdom of Saudi Arabia</li>
