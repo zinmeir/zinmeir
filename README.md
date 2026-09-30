@@ -1,6 +1,6 @@
 <!-- ═══════════════════════ DEEP-SPACE HEADER ═══════════════════════ -->
 <!-- Venom-type render = twin planetary horizons rising out of the void -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:030014,30:1B0B45,65:3B0F6F,100:00C9FF&text=Muhammad%20Shaheer%20Akhtar&fontSize=42&fontColor=E8EAFF&animation=twinkling&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Specialist&descSize=18&descAlignY=62&descAlign=50&stroke=8B5CF6&strokeWidth=0" width="100%" alt="Deep Space Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:030014,30:1B0B45,65:3B0F6F,100:00C9FF&text=Muhammad%20Shaheer%20Akhtar&fontSize=42&fontColor=E8EAFF&animation=twinkling&fontAlignY=42&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Specialist&descSize=18&descAlignY=62&descAlign=50&stroke=8B5CF6&strokeWidth=0" width="100%" alt="Deep Space Header"/>
 
 <!-- ═══════════════ TRANSMISSION: ANIMATED TYPING INTRO ═══════════════ -->
 <div align="center">
