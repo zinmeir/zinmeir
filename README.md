@@ -38,7 +38,7 @@
   <tr>
     <td width="55%" valign="top">
       <ul>
-        <li><b>Final-year CS student</b> at FAST NUCES Peshawar, graduating <b>Dec 2026</b></li>
+        <li><b>Final-semester CS student</b> at FAST NUCES Peshawar, graduating <b>Dec 2026</b></li>
         <li><b>IBM-Certified AI Engineer</b> specialising in LLMs, RAG pipelines, FAISS vector search &amp; autonomous cloud systems</li>
         <li><b>Co-Founder &amp; Ex-CSO</b> at <i>prAIsm</i> where I shipped two AI MVPs from zero: Quickpipe &amp; Trainetic</li>
         <li><b>Published researcher</b> across quantum computing (Grover's Algorithm / NISQ), federated learning for mental health applications, and agentic LLM frameworks</li>
