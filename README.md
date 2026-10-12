@@ -34,23 +34,9 @@
 
 ## 🛸 Who Am I? | من أنا
 
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <ul>
-        <li><b>Final-semester CS student</b> at FAST NUCES Peshawar, graduating <b>Dec 2026</b></li>
-        <li><b>IBM-Certified AI Engineer</b> specialising in LLMs, RAG pipelines, FAISS vector search &amp; autonomous cloud systems</li>
-        <li><b>ML Engineer @ Lucid Motors & xCo-Founder &amp; xCSO</b> at <i>prAIsm</i> where I shipped two AI MVPs from zero: Quickpipe &amp; Trainetic</li>
-        <li><b>Published researcher</b> across quantum computing (Grover's Algorithm / NISQ), federated learning for mental health applications, and agentic LLM frameworks</li>
-        <li><b>Young Member:</b> The New York Academy of Sciences</li>
-        <li><b>Based in:</b> Pakistan &amp; Kingdom of Saudi Arabia</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer coding GIF"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/whoami.svg" width="100%" alt="Final-semester CS student at FAST NUCES Peshawar (Dec 2026) · IBM-Certified AI Engineer · ML Engineer @ Lucid Motors, Ex-Co-Founder &amp; CSO @ prAIsm · Published researcher · Young Member, NYAS · Based in Pakistan &amp; Saudi Arabia"/>
+</p>
 
 ## 🚀 Currently Building/Learning 
 
