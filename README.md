@@ -126,21 +126,10 @@
   </tr>
 </table>
 
-<!-- ═══════════════ TELEMETRY: STATS & TRANSMISSIONS ═══════════════ -->
-<table width="100%">
-  <tr>
-    <td width="25%" valign="middle">
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="100%" alt="Dev Quote"/>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320" alt="Tech GIF"/>
-    </td>
-    <td width="35%" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zinmeir&theme=2077" width="100%" alt="Top Languages"/><br/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zinmeir&theme=2077" width="100%" alt="GitHub Stats"/>
-    </td>
-  </tr>
-</table>
+<!-- ═══════════════ TELEMETRY: live stats, regenerated daily by .github/workflows/stats-card.yml ═══════════════ -->
+<p align="center">
+  <img src="assets/stats.svg" width="100%" alt="GitHub activity and top languages for zinmeir, refreshed daily"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B5CF6,50:00E5FF,100:030014" width="100%" alt="divider"/>
 
