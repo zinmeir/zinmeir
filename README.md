@@ -38,14 +38,11 @@
   <img src="assets/whoami.svg" width="100%" alt="Final-semester CS student at FAST NUCES Peshawar (Dec 2026) · IBM-Certified AI Engineer · ML Engineer @ Lucid Motors, Ex-Co-Founder &amp; CSO @ prAIsm · Published researcher · Young Member, NYAS · Based in Pakistan &amp; Saudi Arabia"/>
 </p>
 
-## 🚀 Currently Building/Learning 
+## 🚀 Currently Building & Learning
 
-| | |
-|:---|:---|
-| 🔨 **Building** | CloudAide: An AI Cloud Support Engineer |
-| 🌱 **Focusing on** | Agentic LLM architectures, multi-agent orchestration & Rust |
-| 📖 **Reading** | *Build a Large Language Model (From Scratch)* - Sebastian Raschka, PhD |
-| 🤝 **Looking to collaborate on** | Scalable RAG architectures, agentic LLM frameworks, & applied AI research |
+<p align="center">
+  <img src="assets/now.svg" width="100%" alt="Building: CloudAide, an AI Cloud Support Engineer · Focusing on: agentic LLM architectures, multi-agent orchestration &amp; Rust · Reading: Build a Large Language Model (From Scratch) by Sebastian Raschka, PhD · Open to collaborate on scalable RAG architectures, agentic LLM frameworks &amp; applied AI research"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,50:8B5CF6,100:030014" width="100%" alt="divider"/>
 
