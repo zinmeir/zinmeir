@@ -1,0 +1,34 @@
+name: Update stats card
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily, 08:17 Pakistan time
+  workflow_dispatch:        # lets you run it by hand from the Actions tab
+  push:
+    paths:
+      - "scripts/stats_card.py"
+      - ".github/workflows/stats-card.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render assets/stats.svg
+        env:
+          # Optional: add a personal access token as the STATS_TOKEN secret to include private repos.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+        run: python3 scripts/stats_card.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg
+          git diff --cached --quiet || git commit -m "Update stats card"
+          git push
