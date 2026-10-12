@@ -41,7 +41,7 @@
 ## 🚀 Currently Building & Learning
 
 <p align="center">
-  <img src="assets/now.svg" width="100%" alt="Building: CloudAide, an AI Cloud Support Engineer · Focusing on: agentic LLM architectures, multi-agent orchestration &amp; Rust · Reading: Build a Large Language Model (From Scratch) by Sebastian Raschka, PhD · Open to collaborate on scalable RAG architectures, agentic LLM frameworks &amp; applied AI research"/>
+  <img src="assets/now-v2.svg" width="100%" alt="Building: CloudAide, an AI Cloud Support Engineer · Focusing on: agentic LLM architectures, multi-agent orchestration &amp; Rust · Reading: Build a Large Language Model (From Scratch) by Sebastian Raschka, PhD · Open to collaborate on scalable RAG architectures, agentic LLM frameworks &amp; applied AI research"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,50:8B5CF6,100:030014" width="100%" alt="divider"/>
