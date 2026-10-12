@@ -52,7 +52,7 @@
 ## 🛰️ Tech Stack
 
 <p align="center">
-  <img src="assets/techstack.svg" width="100%" alt="Languages: Python, JavaScript, TypeScript, C++, PHP · Frontend: React, Next.js, Tailwind CSS, Redux · Backend: Node.js, Express, FastAPI, Flask · Databases: MongoDB, PostgreSQL, MySQL, Firebase, SQLite · DevOps &amp; Cloud: AWS, Docker, Linux, Nginx, GitHub Actions, Vercel, Netlify, Vertex AI · ML: PyTorch, TensorFlow, Keras, scikit-learn, NumPy, Pandas · GPU: CUDA, cuDNN, TensorRT, ONNX Runtime, Triton Server · LLMs &amp; GenAI: OpenAI API, Hugging Face, LangChain, LlamaIndex, Ollama, LLaMA 3.1, FAISS · Autonomous driving: ROS 2, OpenCV, CARLA, Autoware, YOLO, Open3D, PCL"/>
+  <img src="assets/techstack.svg" width="100%" alt="Languages: Python, JavaScript, Rust, TypeScript, C++, PHP · Frontend: React, Next.js, Tailwind CSS, Redux · Backend: Node.js, Express, FastAPI, Flask · Databases: MongoDB, PostgreSQL, MySQL, Firebase, SQLite · DevOps &amp; Cloud: AWS, Docker, Linux, Nginx, GitHub Actions, Vercel, Netlify, Vertex AI · ML: PyTorch, TensorFlow, Keras, scikit-learn, NumPy, Pandas · GPU: CUDA, cuDNN, TensorRT, ONNX Runtime, Triton Server · LLMs &amp; GenAI: OpenAI API, Hugging Face, LangChain, LlamaIndex, Ollama, LLaMA 3.1, FAISS · Autonomous driving: ROS 2, OpenCV, CARLA, Autoware, YOLO, Open3D, PCL"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:030014,50:00E5FF,100:8B5CF6" width="100%" alt="divider"/>
