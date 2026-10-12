@@ -1,0 +1,435 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="607" viewBox="0 0 1000 607" role="img" aria-labelledby="ttl desc">
+<title id="ttl">Tech stack — Muhammad Shaheer Akhtar</title>
+<desc id="desc">Languages: Python, JavaScript, TypeScript, C++, PHP; Frontend: React, Next.js, Tailwind CSS, Redux; Backend: Node.js, Express, FastAPI, Flask; Databases: MongoDB, PostgreSQL, MySQL, Firebase, SQLite; Devops &amp; Cloud: AWS, Docker, Linux, Nginx, GitHub Actions, Vercel, Netlify, Vertex AI; Ml / Deep Learning: PyTorch, TensorFlow, Keras, scikit-learn, NumPy, Pandas; Gpu &amp; Acceleration: CUDA, cuDNN, TensorRT, ONNX Runtime, Triton Server; Llms &amp; Genai: OpenAI API, Hugging Face, LangChain, LlamaIndex, Ollama, LLaMA 3.1, FAISS; Autonomous Driving: ROS 2, OpenCV, CARLA, Autoware, YOLO, Open3D, PCL</desc>
+<style>
+@font-face{font-family:'InterW';font-weight:500;src:url(data:font/woff;base64,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) format('woff')}@font-face{font-family:'MonoW';src:url(data:font/woff;base64,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) format('woff')}
+.p{font:500 12.5px 'InterW','Inter','Segoe UI',system-ui,sans-serif;fill:#E8EAFF}
+.h{font:12.5px 'MonoW','JetBrains Mono',Consolas,monospace;fill:#E8EAFF;letter-spacing:.3px}
+.n{font:11px 'MonoW',monospace;fill:#5B6390}
+.lbl{font:13px 'MonoW','JetBrains Mono',Consolas,monospace;fill:#00E5FF}
+.cnt{font:12px 'MonoW',monospace;fill:#5B6390}
+.rise{animation:rise .8s cubic-bezier(.2,.7,.2,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.pop{transform-box:fill-box;transform-origin:50% 50%;animation:pop .5s cubic-bezier(.3,1.6,.5,1) both}
+@keyframes pop{from{opacity:0;transform:scale(.8)}to{opacity:1;transform:none}}
+.halo{transform-box:fill-box;transform-origin:50% 50%;animation:halo 3s ease-in-out infinite}
+@keyframes halo{0%,100%{transform:scale(.6);opacity:.15}50%{transform:scale(1.25);opacity:.9}}
+.comet{animation:comet 7s linear infinite}
+@keyframes comet{from{stroke-dashoffset:100}to{stroke-dashoffset:0}}
+.tw{animation:tw 4s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.2}50%{opacity:1}}
+.blink{animation:bl 1.05s steps(1) infinite}
+@keyframes bl{50%{opacity:0}}
+.sweep{animation:sweep 6s ease-in-out infinite}
+@keyframes sweep{0%{transform:translateX(-260px)}60%,100%{transform:translateX(1060px)}}
+</style>
+<defs>
+  <clipPath id="card"><rect width="1000" height="607" rx="20"/></clipPath>
+  <linearGradient id="bgG" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07041A"/><stop offset="1" stop-color="#0F0A2E"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".7"/><stop offset=".5" stop-color="#8B5CF6" stop-opacity=".18"/><stop offset="1" stop-color="#00E5FF" stop-opacity=".7"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#15104A" stop-opacity=".75"/><stop offset="1" stop-color="#0B0828" stop-opacity=".75"/></linearGradient>
+  <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".5"/><stop offset="1" stop-color="#00E5FF" stop-opacity="0"/></linearGradient>
+  <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00E5FF" stop-opacity="0"/><stop offset=".5" stop-color="#00E5FF" stop-opacity=".07"/><stop offset="1" stop-color="#00E5FF" stop-opacity="0"/></linearGradient>
+  <radialGradient id="halo1" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".28"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="halo2" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#00E5FF" stop-opacity=".16"/><stop offset="1" stop-color="#00E5FF" stop-opacity="0"/></radialGradient>
+</defs>
+<g clip-path="url(#card)">
+  <rect width="1000" height="607" fill="url(#bgG)"/>
+  <ellipse cx="180" cy="607" rx="420" ry="220" fill="url(#halo1)"/>
+  <ellipse cx="880" cy="0" rx="380" ry="200" fill="url(#halo2)"/>
+  <circle cx="453.1" cy="338.8" r="1.2" fill="#00E5FF" class="tw" style="animation-duration:4.0s;animation-delay:-2.9s"/><circle cx="189.7" cy="310.5" r="0.8" fill="#E8EAFF" class="tw" style="animation-duration:3.8s;animation-delay:-0.7s"/><circle cx="538.1" cy="534.2" r="0.6" fill="#8B5CF6" class="tw" style="animation-duration:5.4s;animation-delay:-4.8s"/><circle cx="651.5" cy="371.8" r="0.8" fill="#8B5CF6" class="tw" style="animation-duration:2.5s;animation-delay:-2.6s"/><circle cx="66.6" cy="120.4" r="0.8" fill="#8B5CF6" class="tw" style="animation-duration:2.6s;animation-delay:-2.3s"/><circle cx="441.5" cy="505.9" r="0.8" fill="#8B5CF6" class="tw" style="animation-duration:3.4s;animation-delay:-0.0s"/><circle cx="91.6" cy="395.0" r="1.2" fill="#8B5CF6" class="tw" style="animation-duration:5.5s;animation-delay:-4.2s"/><circle cx="704.5" cy="194.3" r="0.8" fill="#8B5CF6" class="tw" style="animation-duration:3.4s;animation-delay:-0.4s"/><circle cx="762.0" cy="244.6" r="1" fill="#00E5FF" class="tw" style="animation-duration:2.7s;animation-delay:-0.1s"/><circle cx="681.9" cy="134.2" r="0.6" fill="#00E5FF" class="tw" style="animation-duration:3.6s;animation-delay:-3.5s"/><circle cx="421.1" cy="342.6" r="0.8" fill="#8B5CF6" class="tw" style="animation-duration:3.3s;animation-delay:-0.4s"/><circle cx="335.3" cy="577.8" r="0.6" fill="#E8EAFF" class="tw" style="animation-duration:3.2s;animation-delay:-0.5s"/><circle cx="66.9" cy="479.0" r="0.8" fill="#8B5CF6" class="tw" style="animation-duration:4.2s;animation-delay:-2.2s"/><circle cx="195.6" cy="440.5" r="0.8" fill="#00E5FF" class="tw" style="animation-duration:4.4s;animation-delay:-0.6s"/><circle cx="422.0" cy="133.8" r="1" fill="#8B5CF6" class="tw" style="animation-duration:3.4s;animation-delay:-4.4s"/><circle cx="215.3" cy="241.0" r="0.6" fill="#E8EAFF" class="tw" style="animation-duration:5.5s;animation-delay:-1.1s"/><circle cx="262.1" cy="464.7" r="1" fill="#00E5FF" class="tw" style="animation-duration:3.7s;animation-delay:-0.4s"/><circle cx="213.4" cy="384.2" r="0.6" fill="#8B5CF6" class="tw" style="animation-duration:3.6s;animation-delay:-3.1s"/><circle cx="133.2" cy="355.1" r="0.8" fill="#00E5FF" class="tw" style="animation-duration:3.0s;animation-delay:-0.8s"/><circle cx="901.9" cy="491.3" r="0.8" fill="#8B5CF6" class="tw" style="animation-duration:3.1s;animation-delay:-3.7s"/><circle cx="933.4" cy="124.2" r="1.2" fill="#00E5FF" class="tw" style="animation-duration:4.3s;animation-delay:-2.1s"/><circle cx="110.2" cy="30.9" r="1" fill="#E8EAFF" class="tw" style="animation-duration:4.7s;animation-delay:-2.0s"/><circle cx="422.1" cy="542.8" r="1.2" fill="#00E5FF" class="tw" style="animation-duration:4.1s;animation-delay:-4.6s"/><circle cx="969.5" cy="82.7" r="1.2" fill="#8B5CF6" class="tw" style="animation-duration:4.5s;animation-delay:-3.1s"/><circle cx="81.0" cy="133.5" r="0.8" fill="#8B5CF6" class="tw" style="animation-duration:2.5s;animation-delay:-1.3s"/><circle cx="446.6" cy="43.7" r="0.8" fill="#00E5FF" class="tw" style="animation-duration:3.6s;animation-delay:-2.9s"/><circle cx="137.5" cy="222.0" r="1.2" fill="#00E5FF" class="tw" style="animation-duration:4.5s;animation-delay:-3.5s"/><circle cx="583.1" cy="90.9" r="0.6" fill="#E8EAFF" class="tw" style="animation-duration:3.9s;animation-delay:-1.8s"/><circle cx="314.8" cy="27.8" r="0.6" fill="#00E5FF" class="tw" style="animation-duration:2.7s;animation-delay:-1.6s"/><circle cx="142.4" cy="50.8" r="1.2" fill="#8B5CF6" class="tw" style="animation-duration:3.6s;animation-delay:-0.2s"/><circle cx="929.3" cy="443.7" r="0.8" fill="#00E5FF" class="tw" style="animation-duration:3.6s;animation-delay:-3.4s"/><circle cx="894.4" cy="522.8" r="1.2" fill="#E8EAFF" class="tw" style="animation-duration:5.1s;animation-delay:-2.9s"/><circle cx="623.0" cy="234.0" r="0.6" fill="#8B5CF6" class="tw" style="animation-duration:2.7s;animation-delay:-0.5s"/><circle cx="121.7" cy="160.0" r="1.2" fill="#8B5CF6" class="tw" style="animation-duration:3.5s;animation-delay:-4.7s"/><circle cx="691.0" cy="278.5" r="1.2" fill="#8B5CF6" class="tw" style="animation-duration:2.8s;animation-delay:-3.8s"/><circle cx="37.3" cy="363.4" r="1.2" fill="#E8EAFF" class="tw" style="animation-duration:3.2s;animation-delay:-3.5s"/><circle cx="497.3" cy="371.2" r="1.2" fill="#00E5FF" class="tw" style="animation-duration:5.2s;animation-delay:-1.8s"/><circle cx="148.9" cy="369.5" r="0.8" fill="#00E5FF" class="tw" style="animation-duration:4.5s;animation-delay:-2.2s"/><circle cx="885.5" cy="201.2" r="1" fill="#E8EAFF" class="tw" style="animation-duration:4.4s;animation-delay:-4.0s"/><circle cx="750.6" cy="126.4" r="0.8" fill="#00E5FF" class="tw" style="animation-duration:3.2s;animation-delay:-4.6s"/>
+  <text x="32" y="44" class="lbl">$ cat stack.json</text>
+  <rect x="165.1" y="33" width="7.5" height="14" rx="1" fill="#00E5FF" class="blink"/>
+  <text x="968" y="44" class="cnt" text-anchor="end">51 tools · 9 domains</text>
+  
+  <g class="rise" style="animation-delay:0.10s">
+    <rect x="32.0" y="74" width="300.0" height="131" rx="14" fill="url(#panel)" stroke="#2A2465"/>
+    <rect x="32.0" y="74" width="300.0" height="131" rx="14" fill="none" stroke="#00E5FF" stroke-width="1.6"
+          pathLength="100" stroke-dasharray="14 86" stroke-linecap="round" class="comet" style="animation-delay:-0.0s"/>
+    <text x="48.0" y="102" class="h"><tspan fill="#00E5FF">01</tspan><tspan fill="#5B6390"> // </tspan>languages</text>
+    <text x="316.0" y="102" class="n" text-anchor="end">5</text>
+    <rect x="48.0" y="111" width="268.0" height="1" fill="url(#rule)"/>
+    
+      <g class="pop" style="animation-delay:0.35s">
+        <rect x="48.0" y="120" width="80.1" height="30" rx="15.0" fill="#4B8BBE" fill-opacity=".07" stroke="#4B8BBE" stroke-opacity=".35"/>
+        <circle cx="64.0" cy="135.0" r="7" fill="#4B8BBE" fill-opacity=".18" class="halo" style="animation-delay:-0.00s"/>
+        <circle cx="64.0" cy="135.0" r="3.6" fill="#4B8BBE"/>
+        <text x="75.0" y="139.6" class="p">Python</text>
+      </g>
+      <g class="pop" style="animation-delay:0.41s">
+        <rect x="135.1" y="120" width="101.8" height="30" rx="15.0" fill="#F7DF1E" fill-opacity=".07" stroke="#F7DF1E" stroke-opacity=".35"/>
+        <circle cx="151.1" cy="135.0" r="7" fill="#F7DF1E" fill-opacity=".18" class="halo" style="animation-delay:-0.41s"/>
+        <circle cx="151.1" cy="135.0" r="3.6" fill="#F7DF1E"/>
+        <text x="162.1" y="139.6" class="p">JavaScript</text>
+      </g>
+      <g class="pop" style="animation-delay:0.47s">
+        <rect x="48.0" y="157" width="103.7" height="30" rx="15.0" fill="#3178C6" fill-opacity=".07" stroke="#3178C6" stroke-opacity=".35"/>
+        <circle cx="64.0" cy="172.0" r="7" fill="#3178C6" fill-opacity=".18" class="halo" style="animation-delay:-0.82s"/>
+        <circle cx="64.0" cy="172.0" r="3.6" fill="#3178C6"/>
+        <text x="75.0" y="176.6" class="p">TypeScript</text>
+      </g>
+      <g class="pop" style="animation-delay:0.53s">
+        <rect x="158.7" y="157" width="63.9" height="30" rx="15.0" fill="#5B9BD5" fill-opacity=".07" stroke="#5B9BD5" stroke-opacity=".35"/>
+        <circle cx="174.7" cy="172.0" r="7" fill="#5B9BD5" fill-opacity=".18" class="halo" style="animation-delay:-1.23s"/>
+        <circle cx="174.7" cy="172.0" r="3.6" fill="#5B9BD5"/>
+        <text x="185.7" y="176.6" class="p">C++</text>
+      </g>
+      <g class="pop" style="animation-delay:0.59s">
+        <rect x="229.5" y="157" width="63.3" height="30" rx="15.0" fill="#8892BF" fill-opacity=".07" stroke="#8892BF" stroke-opacity=".35"/>
+        <circle cx="245.5" cy="172.0" r="7" fill="#8892BF" fill-opacity=".18" class="halo" style="animation-delay:-1.64s"/>
+        <circle cx="245.5" cy="172.0" r="3.6" fill="#8892BF"/>
+        <text x="256.5" y="176.6" class="p">PHP</text>
+      </g>
+  </g>
+  <g class="rise" style="animation-delay:0.22s">
+    <rect x="350.0" y="74" width="300.0" height="131" rx="14" fill="url(#panel)" stroke="#2A2465"/>
+    <rect x="350.0" y="74" width="300.0" height="131" rx="14" fill="none" stroke="#8B5CF6" stroke-width="1.6"
+          pathLength="100" stroke-dasharray="14 86" stroke-linecap="round" class="comet" style="animation-delay:-1.3s"/>
+    <text x="366.0" y="102" class="h"><tspan fill="#8B5CF6">02</tspan><tspan fill="#5B6390"> // </tspan>frontend</text>
+    <text x="634.0" y="102" class="n" text-anchor="end">4</text>
+    <rect x="366.0" y="111" width="268.0" height="1" fill="url(#rule)"/>
+    
+      <g class="pop" style="animation-delay:0.47s">
+        <rect x="366.0" y="120" width="72.0" height="30" rx="15.0" fill="#61DAFB" fill-opacity=".07" stroke="#61DAFB" stroke-opacity=".35"/>
+        <circle cx="382.0" cy="135.0" r="7" fill="#61DAFB" fill-opacity=".18" class="halo" style="animation-delay:-2.05s"/>
+        <circle cx="382.0" cy="135.0" r="3.6" fill="#61DAFB"/>
+        <text x="393.0" y="139.6" class="p">React</text>
+      </g>
+      <g class="pop" style="animation-delay:0.53s">
+        <rect x="445.0" y="120" width="79.7" height="30" rx="15.0" fill="#E8EAFF" fill-opacity=".07" stroke="#E8EAFF" stroke-opacity=".35"/>
+        <circle cx="461.0" cy="135.0" r="7" fill="#E8EAFF" fill-opacity=".18" class="halo" style="animation-delay:-2.46s"/>
+        <circle cx="461.0" cy="135.0" r="3.6" fill="#E8EAFF"/>
+        <text x="472.0" y="139.6" class="p">Next.js</text>
+      </g>
+      <g class="pop" style="animation-delay:0.59s">
+        <rect x="366.0" y="157" width="117.0" height="30" rx="15.0" fill="#38BDF8" fill-opacity=".07" stroke="#38BDF8" stroke-opacity=".35"/>
+        <circle cx="382.0" cy="172.0" r="7" fill="#38BDF8" fill-opacity=".18" class="halo" style="animation-delay:-2.87s"/>
+        <circle cx="382.0" cy="172.0" r="3.6" fill="#38BDF8"/>
+        <text x="393.0" y="176.6" class="p">Tailwind CSS</text>
+      </g>
+      <g class="pop" style="animation-delay:0.65s">
+        <rect x="490.0" y="157" width="75.7" height="30" rx="15.0" fill="#9B6FE0" fill-opacity=".07" stroke="#9B6FE0" stroke-opacity=".35"/>
+        <circle cx="506.0" cy="172.0" r="7" fill="#9B6FE0" fill-opacity=".18" class="halo" style="animation-delay:-0.28s"/>
+        <circle cx="506.0" cy="172.0" r="3.6" fill="#9B6FE0"/>
+        <text x="517.0" y="176.6" class="p">Redux</text>
+      </g>
+  </g>
+  <g class="rise" style="animation-delay:0.34s">
+    <rect x="668.0" y="74" width="300.0" height="131" rx="14" fill="url(#panel)" stroke="#2A2465"/>
+    <rect x="668.0" y="74" width="300.0" height="131" rx="14" fill="none" stroke="#FF2E97" stroke-width="1.6"
+          pathLength="100" stroke-dasharray="14 86" stroke-linecap="round" class="comet" style="animation-delay:-2.6s"/>
+    <text x="684.0" y="102" class="h"><tspan fill="#FF2E97">03</tspan><tspan fill="#5B6390"> // </tspan>backend</text>
+    <text x="952.0" y="102" class="n" text-anchor="end">4</text>
+    <rect x="684.0" y="111" width="268.0" height="1" fill="url(#rule)"/>
+    
+      <g class="pop" style="animation-delay:0.59s">
+        <rect x="684.0" y="120" width="83.7" height="30" rx="15.0" fill="#5FA04E" fill-opacity=".07" stroke="#5FA04E" stroke-opacity=".35"/>
+        <circle cx="700.0" cy="135.0" r="7" fill="#5FA04E" fill-opacity=".18" class="halo" style="animation-delay:-0.69s"/>
+        <circle cx="700.0" cy="135.0" r="3.6" fill="#5FA04E"/>
+        <text x="711.0" y="139.6" class="p">Node.js</text>
+      </g>
+      <g class="pop" style="animation-delay:0.65s">
+        <rect x="774.7" y="120" width="85.9" height="30" rx="15.0" fill="#C9CCE6" fill-opacity=".07" stroke="#C9CCE6" stroke-opacity=".35"/>
+        <circle cx="790.7" cy="135.0" r="7" fill="#C9CCE6" fill-opacity=".18" class="halo" style="animation-delay:-1.10s"/>
+        <circle cx="790.7" cy="135.0" r="3.6" fill="#C9CCE6"/>
+        <text x="801.7" y="139.6" class="p">Express</text>
+      </g>
+      <g class="pop" style="animation-delay:0.71s">
+        <rect x="867.6" y="120" width="83.7" height="30" rx="15.0" fill="#05998B" fill-opacity=".07" stroke="#05998B" stroke-opacity=".35"/>
+        <circle cx="883.6" cy="135.0" r="7" fill="#05998B" fill-opacity=".18" class="halo" style="animation-delay:-1.51s"/>
+        <circle cx="883.6" cy="135.0" r="3.6" fill="#05998B"/>
+        <text x="894.6" y="139.6" class="p">FastAPI</text>
+      </g>
+      <g class="pop" style="animation-delay:0.77s">
+        <rect x="684.0" y="157" width="69.3" height="30" rx="15.0" fill="#E8EAFF" fill-opacity=".07" stroke="#E8EAFF" stroke-opacity=".35"/>
+        <circle cx="700.0" cy="172.0" r="7" fill="#E8EAFF" fill-opacity=".18" class="halo" style="animation-delay:-1.92s"/>
+        <circle cx="700.0" cy="172.0" r="3.6" fill="#E8EAFF"/>
+        <text x="711.0" y="176.6" class="p">Flask</text>
+      </g>
+  </g>
+  <g class="rise" style="animation-delay:0.46s">
+    <rect x="32.0" y="223" width="300.0" height="168" rx="14" fill="url(#panel)" stroke="#2A2465"/>
+    <rect x="32.0" y="223" width="300.0" height="168" rx="14" fill="none" stroke="#00E5FF" stroke-width="1.6"
+          pathLength="100" stroke-dasharray="14 86" stroke-linecap="round" class="comet" style="animation-delay:-3.9s"/>
+    <text x="48.0" y="251" class="h"><tspan fill="#00E5FF">04</tspan><tspan fill="#5B6390"> // </tspan>databases</text>
+    <text x="316.0" y="251" class="n" text-anchor="end">5</text>
+    <rect x="48.0" y="260" width="268.0" height="1" fill="url(#rule)"/>
+    
+      <g class="pop" style="animation-delay:0.71s">
+        <rect x="48.0" y="269" width="97.0" height="30" rx="15.0" fill="#47A248" fill-opacity=".07" stroke="#47A248" stroke-opacity=".35"/>
+        <circle cx="64.0" cy="284.0" r="7" fill="#47A248" fill-opacity=".18" class="halo" style="animation-delay:-2.33s"/>
+        <circle cx="64.0" cy="284.0" r="3.6" fill="#47A248"/>
+        <text x="75.0" y="288.6" class="p">MongoDB</text>
+      </g>
+      <g class="pop" style="animation-delay:0.77s">
+        <rect x="152.0" y="269" width="109.2" height="30" rx="15.0" fill="#6C8EEF" fill-opacity=".07" stroke="#6C8EEF" stroke-opacity=".35"/>
+        <circle cx="168.0" cy="284.0" r="7" fill="#6C8EEF" fill-opacity=".18" class="halo" style="animation-delay:-2.74s"/>
+        <circle cx="168.0" cy="284.0" r="3.6" fill="#6C8EEF"/>
+        <text x="179.0" y="288.6" class="p">PostgreSQL</text>
+      </g>
+      <g class="pop" style="animation-delay:0.83s">
+        <rect x="48.0" y="306" width="81.3" height="30" rx="15.0" fill="#4F9BD1" fill-opacity=".07" stroke="#4F9BD1" stroke-opacity=".35"/>
+        <circle cx="64.0" cy="321.0" r="7" fill="#4F9BD1" fill-opacity=".18" class="halo" style="animation-delay:-0.15s"/>
+        <circle cx="64.0" cy="321.0" r="3.6" fill="#4F9BD1"/>
+        <text x="75.0" y="325.6" class="p">MySQL</text>
+      </g>
+      <g class="pop" style="animation-delay:0.89s">
+        <rect x="136.3" y="306" width="89.6" height="30" rx="15.0" fill="#FFCA28" fill-opacity=".07" stroke="#FFCA28" stroke-opacity=".35"/>
+        <circle cx="152.3" cy="321.0" r="7" fill="#FFCA28" fill-opacity=".18" class="halo" style="animation-delay:-0.56s"/>
+        <circle cx="152.3" cy="321.0" r="3.6" fill="#FFCA28"/>
+        <text x="163.3" y="325.6" class="p">Firebase</text>
+      </g>
+      <g class="pop" style="animation-delay:0.95s">
+        <rect x="232.9" y="306" width="77.5" height="30" rx="15.0" fill="#44A8E0" fill-opacity=".07" stroke="#44A8E0" stroke-opacity=".35"/>
+        <circle cx="248.9" cy="321.0" r="7" fill="#44A8E0" fill-opacity=".18" class="halo" style="animation-delay:-0.97s"/>
+        <circle cx="248.9" cy="321.0" r="3.6" fill="#44A8E0"/>
+        <text x="259.9" y="325.6" class="p">SQLite</text>
+      </g>
+  </g>
+  <g class="rise" style="animation-delay:0.58s">
+    <rect x="350.0" y="223" width="300.0" height="168" rx="14" fill="url(#panel)" stroke="#2A2465"/>
+    <rect x="350.0" y="223" width="300.0" height="168" rx="14" fill="none" stroke="#8B5CF6" stroke-width="1.6"
+          pathLength="100" stroke-dasharray="14 86" stroke-linecap="round" class="comet" style="animation-delay:-5.2s"/>
+    <text x="366.0" y="251" class="h"><tspan fill="#8B5CF6">05</tspan><tspan fill="#5B6390"> // </tspan>devops &amp; cloud</text>
+    <text x="634.0" y="251" class="n" text-anchor="end">8</text>
+    <rect x="366.0" y="260" width="268.0" height="1" fill="url(#rule)"/>
+    
+      <g class="pop" style="animation-delay:0.83s">
+        <rect x="366.0" y="269" width="67.5" height="30" rx="15.0" fill="#FF9900" fill-opacity=".07" stroke="#FF9900" stroke-opacity=".35"/>
+        <circle cx="382.0" cy="284.0" r="7" fill="#FF9900" fill-opacity=".18" class="halo" style="animation-delay:-1.38s"/>
+        <circle cx="382.0" cy="284.0" r="3.6" fill="#FF9900"/>
+        <text x="393.0" y="288.6" class="p">AWS</text>
+      </g>
+      <g class="pop" style="animation-delay:0.89s">
+        <rect x="440.5" y="269" width="81.0" height="30" rx="15.0" fill="#2496ED" fill-opacity=".07" stroke="#2496ED" stroke-opacity=".35"/>
+        <circle cx="456.5" cy="284.0" r="7" fill="#2496ED" fill-opacity=".18" class="halo" style="animation-delay:-1.79s"/>
+        <circle cx="456.5" cy="284.0" r="3.6" fill="#2496ED"/>
+        <text x="467.5" y="288.6" class="p">Docker</text>
+      </g>
+      <g class="pop" style="animation-delay:0.95s">
+        <rect x="528.4" y="269" width="70.2" height="30" rx="15.0" fill="#FCC624" fill-opacity=".07" stroke="#FCC624" stroke-opacity=".35"/>
+        <circle cx="544.4" cy="284.0" r="7" fill="#FCC624" fill-opacity=".18" class="halo" style="animation-delay:-2.20s"/>
+        <circle cx="544.4" cy="284.0" r="3.6" fill="#FCC624"/>
+        <text x="555.4" y="288.6" class="p">Linux</text>
+      </g>
+      <g class="pop" style="animation-delay:1.01s">
+        <rect x="366.0" y="306" width="72.8" height="30" rx="15.0" fill="#2BB24C" fill-opacity=".07" stroke="#2BB24C" stroke-opacity=".35"/>
+        <circle cx="382.0" cy="321.0" r="7" fill="#2BB24C" fill-opacity=".18" class="halo" style="animation-delay:-2.61s"/>
+        <circle cx="382.0" cy="321.0" r="3.6" fill="#2BB24C"/>
+        <text x="393.0" y="325.6" class="p">Nginx</text>
+      </g>
+      <g class="pop" style="animation-delay:1.07s">
+        <rect x="445.8" y="306" width="127.9" height="30" rx="15.0" fill="#2088FF" fill-opacity=".07" stroke="#2088FF" stroke-opacity=".35"/>
+        <circle cx="461.8" cy="321.0" r="7" fill="#2088FF" fill-opacity=".18" class="halo" style="animation-delay:-0.02s"/>
+        <circle cx="461.8" cy="321.0" r="3.6" fill="#2088FF"/>
+        <text x="472.8" y="325.6" class="p">GitHub Actions</text>
+      </g>
+      <g class="pop" style="animation-delay:1.13s">
+        <rect x="366.0" y="343" width="76.7" height="30" rx="15.0" fill="#E8EAFF" fill-opacity=".07" stroke="#E8EAFF" stroke-opacity=".35"/>
+        <circle cx="382.0" cy="358.0" r="7" fill="#E8EAFF" fill-opacity=".18" class="halo" style="animation-delay:-0.43s"/>
+        <circle cx="382.0" cy="358.0" r="3.6" fill="#E8EAFF"/>
+        <text x="393.0" y="362.6" class="p">Vercel</text>
+      </g>
+      <g class="pop" style="animation-delay:1.19s">
+        <rect x="449.7" y="343" width="77.3" height="30" rx="15.0" fill="#00C7B7" fill-opacity=".07" stroke="#00C7B7" stroke-opacity=".35"/>
+        <circle cx="465.7" cy="358.0" r="7" fill="#00C7B7" fill-opacity=".18" class="halo" style="animation-delay:-0.84s"/>
+        <circle cx="465.7" cy="358.0" r="3.6" fill="#00C7B7"/>
+        <text x="476.7" y="362.6" class="p">Netlify</text>
+      </g>
+      <g class="pop" style="animation-delay:1.25s">
+        <rect x="534.0" y="343" width="93.2" height="30" rx="15.0" fill="#4285F4" fill-opacity=".07" stroke="#4285F4" stroke-opacity=".35"/>
+        <circle cx="550.0" cy="358.0" r="7" fill="#4285F4" fill-opacity=".18" class="halo" style="animation-delay:-1.25s"/>
+        <circle cx="550.0" cy="358.0" r="3.6" fill="#4285F4"/>
+        <text x="561.0" y="362.6" class="p">Vertex AI</text>
+      </g>
+  </g>
+  <g class="rise" style="animation-delay:0.70s">
+    <rect x="668.0" y="223" width="300.0" height="168" rx="14" fill="url(#panel)" stroke="#2A2465"/>
+    <rect x="668.0" y="223" width="300.0" height="168" rx="14" fill="none" stroke="#FF2E97" stroke-width="1.6"
+          pathLength="100" stroke-dasharray="14 86" stroke-linecap="round" class="comet" style="animation-delay:-6.5s"/>
+    <text x="684.0" y="251" class="h"><tspan fill="#FF2E97">06</tspan><tspan fill="#5B6390"> // </tspan>ml / deep learning</text>
+    <text x="952.0" y="251" class="n" text-anchor="end">6</text>
+    <rect x="684.0" y="260" width="268.0" height="1" fill="url(#rule)"/>
+    
+      <g class="pop" style="animation-delay:0.95s">
+        <rect x="684.0" y="269" width="88.5" height="30" rx="15.0" fill="#EE4C2C" fill-opacity=".07" stroke="#EE4C2C" stroke-opacity=".35"/>
+        <circle cx="700.0" cy="284.0" r="7" fill="#EE4C2C" fill-opacity=".18" class="halo" style="animation-delay:-1.66s"/>
+        <circle cx="700.0" cy="284.0" r="3.6" fill="#EE4C2C"/>
+        <text x="711.0" y="288.6" class="p">PyTorch</text>
+      </g>
+      <g class="pop" style="animation-delay:1.01s">
+        <rect x="779.5" y="269" width="108.6" height="30" rx="15.0" fill="#FF8F00" fill-opacity=".07" stroke="#FF8F00" stroke-opacity=".35"/>
+        <circle cx="795.5" cy="284.0" r="7" fill="#FF8F00" fill-opacity=".18" class="halo" style="animation-delay:-2.07s"/>
+        <circle cx="795.5" cy="284.0" r="3.6" fill="#FF8F00"/>
+        <text x="806.5" y="288.6" class="p">TensorFlow</text>
+      </g>
+      <g class="pop" style="animation-delay:1.07s">
+        <rect x="684.0" y="306" width="72.6" height="30" rx="15.0" fill="#FF5A5A" fill-opacity=".07" stroke="#FF5A5A" stroke-opacity=".35"/>
+        <circle cx="700.0" cy="321.0" r="7" fill="#FF5A5A" fill-opacity=".18" class="halo" style="animation-delay:-2.48s"/>
+        <circle cx="700.0" cy="321.0" r="3.6" fill="#FF5A5A"/>
+        <text x="711.0" y="325.6" class="p">Keras</text>
+      </g>
+      <g class="pop" style="animation-delay:1.13s">
+        <rect x="763.6" y="306" width="105.2" height="30" rx="15.0" fill="#F7931E" fill-opacity=".07" stroke="#F7931E" stroke-opacity=".35"/>
+        <circle cx="779.6" cy="321.0" r="7" fill="#F7931E" fill-opacity=".18" class="halo" style="animation-delay:-2.89s"/>
+        <circle cx="779.6" cy="321.0" r="3.6" fill="#F7931E"/>
+        <text x="790.6" y="325.6" class="p">scikit-learn</text>
+      </g>
+      <g class="pop" style="animation-delay:1.19s">
+        <rect x="684.0" y="343" width="81.3" height="30" rx="15.0" fill="#4DABCF" fill-opacity=".07" stroke="#4DABCF" stroke-opacity=".35"/>
+        <circle cx="700.0" cy="358.0" r="7" fill="#4DABCF" fill-opacity=".18" class="halo" style="animation-delay:-0.30s"/>
+        <circle cx="700.0" cy="358.0" r="3.6" fill="#4DABCF"/>
+        <text x="711.0" y="362.6" class="p">NumPy</text>
+      </g>
+      <g class="pop" style="animation-delay:1.25s">
+        <rect x="772.3" y="343" width="82.2" height="30" rx="15.0" fill="#E70488" fill-opacity=".07" stroke="#E70488" stroke-opacity=".35"/>
+        <circle cx="788.3" cy="358.0" r="7" fill="#E70488" fill-opacity=".18" class="halo" style="animation-delay:-0.71s"/>
+        <circle cx="788.3" cy="358.0" r="3.6" fill="#E70488"/>
+        <text x="799.3" y="362.6" class="p">Pandas</text>
+      </g>
+  </g>
+  <g class="rise" style="animation-delay:0.82s">
+    <rect x="32.0" y="409" width="300.0" height="168" rx="14" fill="url(#panel)" stroke="#2A2465"/>
+    <rect x="32.0" y="409" width="300.0" height="168" rx="14" fill="none" stroke="#00E5FF" stroke-width="1.6"
+          pathLength="100" stroke-dasharray="14 86" stroke-linecap="round" class="comet" style="animation-delay:-7.8s"/>
+    <text x="48.0" y="437" class="h"><tspan fill="#00E5FF">07</tspan><tspan fill="#5B6390"> // </tspan>gpu &amp; acceleration</text>
+    <text x="316.0" y="437" class="n" text-anchor="end">5</text>
+    <rect x="48.0" y="446" width="268.0" height="1" fill="url(#rule)"/>
+    
+      <g class="pop" style="animation-delay:1.07s">
+        <rect x="48.0" y="455" width="74.3" height="30" rx="15.0" fill="#76B900" fill-opacity=".07" stroke="#76B900" stroke-opacity=".35"/>
+        <circle cx="64.0" cy="470.0" r="7" fill="#76B900" fill-opacity=".18" class="halo" style="animation-delay:-1.12s"/>
+        <circle cx="64.0" cy="470.0" r="3.6" fill="#76B900"/>
+        <text x="75.0" y="474.6" class="p">CUDA</text>
+      </g>
+      <g class="pop" style="animation-delay:1.13s">
+        <rect x="129.3" y="455" width="80.7" height="30" rx="15.0" fill="#9BD14A" fill-opacity=".07" stroke="#9BD14A" stroke-opacity=".35"/>
+        <circle cx="145.3" cy="470.0" r="7" fill="#9BD14A" fill-opacity=".18" class="halo" style="animation-delay:-1.53s"/>
+        <circle cx="145.3" cy="470.0" r="3.6" fill="#9BD14A"/>
+        <text x="156.3" y="474.6" class="p">cuDNN</text>
+      </g>
+      <g class="pop" style="animation-delay:1.19s">
+        <rect x="217.0" y="455" width="96.4" height="30" rx="15.0" fill="#5FA04E" fill-opacity=".07" stroke="#5FA04E" stroke-opacity=".35"/>
+        <circle cx="233.0" cy="470.0" r="7" fill="#5FA04E" fill-opacity=".18" class="halo" style="animation-delay:-1.94s"/>
+        <circle cx="233.0" cy="470.0" r="3.6" fill="#5FA04E"/>
+        <text x="244.0" y="474.6" class="p">TensorRT</text>
+      </g>
+      <g class="pop" style="animation-delay:1.25s">
+        <rect x="48.0" y="492" width="127.6" height="30" rx="15.0" fill="#B0B8E0" fill-opacity=".07" stroke="#B0B8E0" stroke-opacity=".35"/>
+        <circle cx="64.0" cy="507.0" r="7" fill="#B0B8E0" fill-opacity=".18" class="halo" style="animation-delay:-2.35s"/>
+        <circle cx="64.0" cy="507.0" r="3.6" fill="#B0B8E0"/>
+        <text x="75.0" y="511.6" class="p">ONNX Runtime</text>
+      </g>
+      <g class="pop" style="animation-delay:1.31s">
+        <rect x="182.6" y="492" width="116.4" height="30" rx="15.0" fill="#C6E86B" fill-opacity=".07" stroke="#C6E86B" stroke-opacity=".35"/>
+        <circle cx="198.6" cy="507.0" r="7" fill="#C6E86B" fill-opacity=".18" class="halo" style="animation-delay:-2.76s"/>
+        <circle cx="198.6" cy="507.0" r="3.6" fill="#C6E86B"/>
+        <text x="209.6" y="511.6" class="p">Triton Server</text>
+      </g>
+  </g>
+  <g class="rise" style="animation-delay:0.94s">
+    <rect x="350.0" y="409" width="300.0" height="168" rx="14" fill="url(#panel)" stroke="#2A2465"/>
+    <rect x="350.0" y="409" width="300.0" height="168" rx="14" fill="none" stroke="#8B5CF6" stroke-width="1.6"
+          pathLength="100" stroke-dasharray="14 86" stroke-linecap="round" class="comet" style="animation-delay:-9.1s"/>
+    <text x="366.0" y="437" class="h"><tspan fill="#8B5CF6">08</tspan><tspan fill="#5B6390"> // </tspan>llms &amp; genai</text>
+    <text x="634.0" y="437" class="n" text-anchor="end">7</text>
+    <rect x="366.0" y="446" width="268.0" height="1" fill="url(#rule)"/>
+    
+      <g class="pop" style="animation-delay:1.19s">
+        <rect x="366.0" y="455" width="106.1" height="30" rx="15.0" fill="#10A37F" fill-opacity=".07" stroke="#10A37F" stroke-opacity=".35"/>
+        <circle cx="382.0" cy="470.0" r="7" fill="#10A37F" fill-opacity=".18" class="halo" style="animation-delay:-0.17s"/>
+        <circle cx="382.0" cy="470.0" r="3.6" fill="#10A37F"/>
+        <text x="393.0" y="474.6" class="p">OpenAI API</text>
+      </g>
+      <g class="pop" style="animation-delay:1.25s">
+        <rect x="479.1" y="455" width="121.1" height="30" rx="15.0" fill="#FFD21E" fill-opacity=".07" stroke="#FFD21E" stroke-opacity=".35"/>
+        <circle cx="495.1" cy="470.0" r="7" fill="#FFD21E" fill-opacity=".18" class="halo" style="animation-delay:-0.58s"/>
+        <circle cx="495.1" cy="470.0" r="3.6" fill="#FFD21E"/>
+        <text x="506.1" y="474.6" class="p">Hugging Face</text>
+      </g>
+      <g class="pop" style="animation-delay:1.31s">
+        <rect x="366.0" y="492" width="101.9" height="30" rx="15.0" fill="#3FB59A" fill-opacity=".07" stroke="#3FB59A" stroke-opacity=".35"/>
+        <circle cx="382.0" cy="507.0" r="7" fill="#3FB59A" fill-opacity=".18" class="halo" style="animation-delay:-0.99s"/>
+        <circle cx="382.0" cy="507.0" r="3.6" fill="#3FB59A"/>
+        <text x="393.0" y="511.6" class="p">LangChain</text>
+      </g>
+      <g class="pop" style="animation-delay:1.37s">
+        <rect x="474.9" y="492" width="106.5" height="30" rx="15.0" fill="#C084FC" fill-opacity=".07" stroke="#C084FC" stroke-opacity=".35"/>
+        <circle cx="490.9" cy="507.0" r="7" fill="#C084FC" fill-opacity=".18" class="halo" style="animation-delay:-1.40s"/>
+        <circle cx="490.9" cy="507.0" r="3.6" fill="#C084FC"/>
+        <text x="501.9" y="511.6" class="p">LlamaIndex</text>
+      </g>
+      <g class="pop" style="animation-delay:1.43s">
+        <rect x="366.0" y="529" width="79.2" height="30" rx="15.0" fill="#E8EAFF" fill-opacity=".07" stroke="#E8EAFF" stroke-opacity=".35"/>
+        <circle cx="382.0" cy="544.0" r="7" fill="#E8EAFF" fill-opacity=".18" class="halo" style="animation-delay:-1.81s"/>
+        <circle cx="382.0" cy="544.0" r="3.6" fill="#E8EAFF"/>
+        <text x="393.0" y="548.6" class="p">Ollama</text>
+      </g>
+      <g class="pop" style="animation-delay:1.49s">
+        <rect x="452.2" y="529" width="99.7" height="30" rx="15.0" fill="#4A8CFF" fill-opacity=".07" stroke="#4A8CFF" stroke-opacity=".35"/>
+        <circle cx="468.2" cy="544.0" r="7" fill="#4A8CFF" fill-opacity=".18" class="halo" style="animation-delay:-2.22s"/>
+        <circle cx="468.2" cy="544.0" r="3.6" fill="#4A8CFF"/>
+        <text x="479.2" y="548.6" class="p">LLaMA 3.1</text>
+      </g>
+      <g class="pop" style="animation-delay:1.55s">
+        <rect x="558.8" y="529" width="73.8" height="30" rx="15.0" fill="#5B9BF5" fill-opacity=".07" stroke="#5B9BF5" stroke-opacity=".35"/>
+        <circle cx="574.8" cy="544.0" r="7" fill="#5B9BF5" fill-opacity=".18" class="halo" style="animation-delay:-2.63s"/>
+        <circle cx="574.8" cy="544.0" r="3.6" fill="#5B9BF5"/>
+        <text x="585.8" y="548.6" class="p">FAISS</text>
+      </g>
+  </g>
+  <g class="rise" style="animation-delay:1.06s">
+    <rect x="668.0" y="409" width="300.0" height="168" rx="14" fill="url(#panel)" stroke="#2A2465"/>
+    <rect x="668.0" y="409" width="300.0" height="168" rx="14" fill="none" stroke="#FF2E97" stroke-width="1.6"
+          pathLength="100" stroke-dasharray="14 86" stroke-linecap="round" class="comet" style="animation-delay:-10.4s"/>
+    <text x="684.0" y="437" class="h"><tspan fill="#FF2E97">09</tspan><tspan fill="#5B6390"> // </tspan>autonomous driving</text>
+    <text x="952.0" y="437" class="n" text-anchor="end">7</text>
+    <rect x="684.0" y="446" width="268.0" height="1" fill="url(#rule)"/>
+    
+      <g class="pop" style="animation-delay:1.31s">
+        <rect x="684.0" y="455" width="74.8" height="30" rx="15.0" fill="#5A8DEE" fill-opacity=".07" stroke="#5A8DEE" stroke-opacity=".35"/>
+        <circle cx="700.0" cy="470.0" r="7" fill="#5A8DEE" fill-opacity=".18" class="halo" style="animation-delay:-0.04s"/>
+        <circle cx="700.0" cy="470.0" r="3.6" fill="#5A8DEE"/>
+        <text x="711.0" y="474.6" class="p">ROS 2</text>
+      </g>
+      <g class="pop" style="animation-delay:1.37s">
+        <rect x="765.8" y="455" width="88.2" height="30" rx="15.0" fill="#7B66F0" fill-opacity=".07" stroke="#7B66F0" stroke-opacity=".35"/>
+        <circle cx="781.8" cy="470.0" r="7" fill="#7B66F0" fill-opacity=".18" class="halo" style="animation-delay:-0.45s"/>
+        <circle cx="781.8" cy="470.0" r="3.6" fill="#7B66F0"/>
+        <text x="792.8" y="474.6" class="p">OpenCV</text>
+      </g>
+      <g class="pop" style="animation-delay:1.43s">
+        <rect x="861.0" y="455" width="80.1" height="30" rx="15.0" fill="#E8EAFF" fill-opacity=".07" stroke="#E8EAFF" stroke-opacity=".35"/>
+        <circle cx="877.0" cy="470.0" r="7" fill="#E8EAFF" fill-opacity=".18" class="halo" style="animation-delay:-0.86s"/>
+        <circle cx="877.0" cy="470.0" r="3.6" fill="#E8EAFF"/>
+        <text x="888.0" y="474.6" class="p">CARLA</text>
+      </g>
+      <g class="pop" style="animation-delay:1.49s">
+        <rect x="684.0" y="492" width="95.8" height="30" rx="15.0" fill="#4FC3F7" fill-opacity=".07" stroke="#4FC3F7" stroke-opacity=".35"/>
+        <circle cx="700.0" cy="507.0" r="7" fill="#4FC3F7" fill-opacity=".18" class="halo" style="animation-delay:-1.27s"/>
+        <circle cx="700.0" cy="507.0" r="3.6" fill="#4FC3F7"/>
+        <text x="711.0" y="511.6" class="p">Autoware</text>
+      </g>
+      <g class="pop" style="animation-delay:1.55s">
+        <rect x="786.8" y="492" width="72.9" height="30" rx="15.0" fill="#FF6F61" fill-opacity=".07" stroke="#FF6F61" stroke-opacity=".35"/>
+        <circle cx="802.8" cy="507.0" r="7" fill="#FF6F61" fill-opacity=".18" class="halo" style="animation-delay:-1.68s"/>
+        <circle cx="802.8" cy="507.0" r="3.6" fill="#FF6F61"/>
+        <text x="813.8" y="511.6" class="p">YOLO</text>
+      </g>
+      <g class="pop" style="animation-delay:1.61s">
+        <rect x="684.0" y="529" width="87.0" height="30" rx="15.0" fill="#FFB300" fill-opacity=".07" stroke="#FFB300" stroke-opacity=".35"/>
+        <circle cx="700.0" cy="544.0" r="7" fill="#FFB300" fill-opacity=".18" class="halo" style="animation-delay:-2.09s"/>
+        <circle cx="700.0" cy="544.0" r="3.6" fill="#FFB300"/>
+        <text x="711.0" y="548.6" class="p">Open3D</text>
+      </g>
+      <g class="pop" style="animation-delay:1.67s">
+        <rect x="778.0" y="529" width="62.3" height="30" rx="15.0" fill="#E35D6A" fill-opacity=".07" stroke="#E35D6A" stroke-opacity=".35"/>
+        <circle cx="794.0" cy="544.0" r="7" fill="#E35D6A" fill-opacity=".18" class="halo" style="animation-delay:-2.50s"/>
+        <circle cx="794.0" cy="544.0" r="3.6" fill="#E35D6A"/>
+        <text x="805.0" y="548.6" class="p">PCL</text>
+      </g>
+  </g>
+  <rect x="0" y="0" width="220" height="607" fill="url(#beam)" class="sweep"/>
+</g>
+<rect x=".75" y=".75" width="998.5" height="605.5" rx="19.5" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+</svg>
