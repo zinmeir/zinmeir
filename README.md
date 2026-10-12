@@ -51,38 +51,9 @@
 
 ## 🛰️ Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="right"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,js,ts,cpp,php&theme=dark&perline=8" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark&perline=8" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark&perline=8" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,sqlite&theme=dark&perline=8" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>DevOps & Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,githubactions,vercel,netlify&theme=dark&perline=8" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>AI / ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark&perline=8" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=030014" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=030014" />
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&labelColor=030014" />
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=030014" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/techstack.svg" width="100%" alt="Languages: Python, JavaScript, TypeScript, C++, PHP · Frontend: React, Next.js, Tailwind CSS, Redux · Backend: Node.js, Express, FastAPI, Flask · Databases: MongoDB, PostgreSQL, MySQL, Firebase, SQLite · DevOps &amp; Cloud: AWS, Docker, Linux, Nginx, GitHub Actions, Vercel, Netlify, Vertex AI · ML: PyTorch, TensorFlow, Keras, scikit-learn, NumPy, Pandas · GPU: CUDA, cuDNN, TensorRT, ONNX Runtime, Triton Server · LLMs &amp; GenAI: OpenAI API, Hugging Face, LangChain, LlamaIndex, Ollama, LLaMA 3.1, FAISS · Autonomous driving: ROS 2, OpenCV, CARLA, Autoware, YOLO, Open3D, PCL"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:030014,50:00E5FF,100:8B5CF6" width="100%" alt="divider"/>
 
