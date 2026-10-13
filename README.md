@@ -9,7 +9,7 @@
 <!-- ═══════════════════ ORBITAL COMMS — animated buttons (regenerate with scripts/buttons_card.py) ═══════════════════ -->
 <div align="center">
   <a href="https://linkedin.com/in/muhammadshaheerakhtar"><img src="assets/btn-linkedin.svg" alt="LinkedIn — let's connect"/></a>
-  <a href="mailto:shaheerakhtarbusiness@gmail.com"><img src="assets/btn-email.svg" alt="Email — say hello"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shaheerakhtarbusiness@gmail.com"><img src="assets/btn-email.svg" alt="Email — say hello"/></a>
   <a href="https://shaheerakhtar.vercel.app/"><img src="assets/btn-portfolio.svg" alt="Portfolio — view my work"/></a>
 </div>
 
