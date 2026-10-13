@@ -135,35 +135,16 @@
 
 ## 🔭 Research Publications
 
-> 🔬 **Performance Analysis of Grover's Algorithm under Depolarizing Noise in NISQ Devices**
->
-> *Investigating quantum algorithm robustness under realistic noise conditions in near-term quantum hardware.*
-
-> 🧠 **Federated Learning for Mental Health Applications: Adaptive and Privacy-Preserving Early Detection**
->
-> *Privacy-first federated architecture for early mental health condition detection, no sensitive data ever centralised.*
-
-> ☁️ **CloudAIde: An Agentic Framework for Autonomous Cloud Infrastructure Remediation Using Large Language Models**
->
-> *End-to-end LLM agent framework for detecting, diagnosing, and self-healing cloud infrastructure incidents autonomously.*
+<p align="center">
+  <img src="assets/publications.svg" width="100%" alt="1. Performance Analysis of Grover's Algorithm under Depolarizing Noise in NISQ Devices · 2. Federated Learning for Mental Health Applications: Adaptive and Privacy-Preserving Early Detection · 3. CloudAIde: An Agentic Framework for Autonomous Cloud Infrastructure Remediation Using Large Language Models"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:030014,50:8B5CF6,100:00E5FF" width="100%" alt="divider"/>
 
-<!-- ☄️ Contribution Snake — a comet devouring commits across the void -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zinmeir/zinmeir/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zinmeir/zinmeir/output/github-contribution-grid-snake.svg">
-    <img alt="Comet eating my contributions" src="https://raw.githubusercontent.com/zinmeir/zinmeir/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
-<br/>
-
-<!-- 🔥 Streak — reactor core status -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zinmeir&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=030014&stroke=8B5CF6&ring=00E5FF&fire=FF2E97&currStreakNum=00E5FF&currStreakLabel=00E5FF&sideNums=8B5CF6&sideLabels=8B5CF6&dates=6B7280" alt="GitHub Streak"/>
-</div>
+<!-- ☄️ Activity — a comet sweeping the contribution grid + streak stats, regenerated daily by .github/workflows/stats-card.yml -->
+<p align="center">
+  <img src="assets/activity.svg" width="100%" alt="Contribution grid for the last year, total contributions, current streak and longest streak for zinmeir, refreshed daily"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,50:8B5CF6,100:030014" width="100%" alt="divider"/>
 
