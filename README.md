@@ -4,7 +4,7 @@
   <img src="assets/hero.svg" width="100%" alt="Muhammad Shaheer Akhtar — Machine Learning Engineer · Full-Stack Developer · Cybersecurity Specialist. AI Engineer &amp; Cybersecurity Specialist · RAG Pipelines | LLMs | Cloud Systems · Published Researcher in AI &amp; Quantum Computing · Building Production-Grade AI from Pakistan"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- ═══════════════════ ORBITAL COMMS — animated buttons (regenerate with scripts/buttons_card.py) ═══════════════════ -->
 <div align="center">
@@ -229,7 +229,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-shaheerakhtarbusiness%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030014)](mailto:shaheerakhtarbusiness@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-shaheerakhtarbusiness%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030014)](https://mail.google.com/mail/?view=cm&fs=1&to=shaheerakhtarbusiness@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Shaheer%20Akhtar-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=030014)](https://linkedin.com/in/muhammadshaheerakhtar)
 &nbsp;
