@@ -6,21 +6,11 @@
 
 <br/>
 
-<!-- ═══════════════════ ORBITAL COMMS BADGES ═══════════════════ -->
+<!-- ═══════════════════ ORBITAL COMMS — animated buttons (regenerate with scripts/buttons_card.py) ═══════════════════ -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zinmeir&style=for-the-badge&color=8B5CF6&labelColor=030014&label=🛰️+PROFILE+VIEWS" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://linkedin.com/in/muhammadshaheerakhtar">
-    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030014" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:shaheerakhtarbusiness@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-CONTACT-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030014" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://shaheerakhtar.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-VISIT-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=030014" alt="Portfolio"/>
-  </a>
+  <a href="https://linkedin.com/in/muhammadshaheerakhtar"><img src="assets/btn-linkedin.svg" alt="LinkedIn — let's connect"/></a>
+  <a href="mailto:shaheerakhtarbusiness@gmail.com"><img src="assets/btn-email.svg" alt="Email — say hello"/></a>
+  <a href="https://shaheerakhtar.vercel.app/"><img src="assets/btn-portfolio.svg" alt="Portfolio — view my work"/></a>
 </div>
 
 <br/>
@@ -249,6 +239,10 @@
 
 <i>💡 Bridging the gap between AI/ML research and full-stack deployment. Open to engineering roles, enterprise contracts, and R&D partnerships.</i><br/>
 <i>📍 Operating globally via a remote-first workflow.</i>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=zinmeir&style=flat-square&color=8B5CF6&labelColor=030014&label=profile+views" alt="Profile views"/>
 
 </div>
 
