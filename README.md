@@ -1,10 +1,12 @@
 <!-- ═══════════════════════ DEEP-SPACE HEADER ═══════════════════════ -->
 <!-- assets/hero.svg — starfield, ringed planet, typed taglines (regenerate with scripts/hero_card.py) -->
-<a href="https://shaheerakhtar.vercel.app/">
-  <img src="assets/hero.svg" width="100%" alt="Muhammad Shaheer Akhtar — Machine Learning Engineer · Full-Stack Developer · Cybersecurity Specialist. AI Engineer &amp; Cybersecurity Specialist · RAG Pipelines | LLMs | Cloud Systems · Published Researcher in AI &amp; Quantum Computing · Building Production-Grade AI from Pakistan"/>
-</a>
+<p align="center">
+  <a href="https://shaheerakhtar.vercel.app/">
+    <img src="assets/hero.svg" width="100%" alt="Muhammad Shaheer Akhtar — Machine Learning Engineer · Full-Stack Developer · Cybersecurity Specialist. AI Engineer &amp; Cybersecurity Specialist · RAG Pipelines | LLMs | Cloud Systems · Published Researcher in AI &amp; Quantum Computing · Building Production-Grade AI from Pakistan"/>
+  </a>
+</p>
 
-<br/><br/>
+<br/>
 
 <!-- ═══════════════════ ORBITAL COMMS — animated buttons (regenerate with scripts/buttons_card.py) ═══════════════════ -->
 <div align="center">
